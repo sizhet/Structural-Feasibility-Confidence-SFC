@@ -1,56 +1,42 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it as follows."
-title: "Structural Cognitive Runtime (SCR): From Structural Cognitive Emergence to Collective Learning Table and the Humanistic Question of ASI"
+
+title: "Structural Feasibility Confidence (SFC): From Confidence Thickness to Structural Feasibility Metrics"
+
+message: "If you use this repository in your research, please cite it using the metadata below."
+
 type: software
+
 authors:
 
-* family-names: "Tan"
-  given-names: "Sizhe"
-  affiliation: "Independent Researcher"
-  repository-code: "https://github.com/sizhet/Structural-Cognitive-Runtime-SCR"
-  url: "https://github.com/sizhet/Structural-Cognitive-Runtime-SCR"
-  abstract: >
-  Structural Cognitive Runtime (SCR) is a research repository in the Structural
-  Intelligence line that asks what kind of runtime is needed once structural
-  cognitive emergence has already taken place. If Structural Cognitive Emergence
-  (SCE) focused on concept formation, gap emergence, and Why-generation, SCR
-  focuses on the runtime layer that follows: a system capable of Gap-Why
-  diagnosis, Developmental Update / Structural Asset Update, collective
-  human-AI learning, structural data accumulation, and explicit humanistic
-  boundary reflection.
+* family-names: Tan
+  given-names: Sizhe
+  affiliation: Independent Researcher
 
-The repository is organized around several connected layers. It introduces a
-Gap-Why Engine that expands Why-generation from narrow code-gap handling to
-multi-family structural gap diagnosis; a Developmental Update / Structural
-Asset Update layer through which a runtime can update, consolidate, and
-reorganize the structural assets that future reasoning and future learning
-depend on; a Collective Learning Table as a mixed human-AI learning
-environment; and the extension of that environment toward a Structural Data
-Engine and a Circle of Approval. The repository also includes The Humanistic
-Question of ASI, which asks under what humanistic, philosophical, and
-governance conditions such a runtime should be allowed to grow.
+abstract: >
+Structural Feasibility Confidence (SFC) introduces a structural reasoning framework
+for evaluating whether target structures can be reached through feasible structural
+evolution. Rather than treating confidence as a probabilistic estimate, SFC interprets
+confidence as accumulated structural evidence supporting transformability under
+concept coverage, evolution logic, and immutable structural constraints.
 
-SCR is not presented as a finished AGI architecture. Its contribution is to
-make the runtime layer between structural emergence and larger mixed human-AI
-developmental systems explicit: the layer where a system detects structural
-gaps, updates its own structural assets, supports collective learning, and
-eventually must face the humanistic and civilizational conditions under which
-its growth remains legitimate.
-license: Apache-2.0
-version: 1.0.0
-date-released: 2026-06-24
 keywords:
 
-* Structural Cognitive Runtime
-* SCR
-* Structural Cognitive Emergence
-* SCE
 * Structural Intelligence
-* Gap-Why Engine
-* Developmental Update
-* Structural Asset Update
-* Collective Learning Table
-* Structural Data Engine
-* Human-AI Hybrid Civilization
-* Autonomous Structural Intelligence
-* Humanistic Question of ASI
+* Structural Feasibility
+* Structural Feasibility Confidence
+* Structural Feasibility Metrics
+* Confidence Thickness
+* Puzzle Reasoning
+* Gap Bridging
+* Calling Graph
+* Function Tunnel Intelligence
+* Structural Cognitive Runtime
+* Universal Typing and Naming
+* Autonomous Contracting
+* Artificial Super Intelligence
+
+license: Apache-2.0
+
+repository-code: "https://github.com/sizhet/Structural-Feasibility-Confidence-SFC"
+
+version: "1.0.0"
