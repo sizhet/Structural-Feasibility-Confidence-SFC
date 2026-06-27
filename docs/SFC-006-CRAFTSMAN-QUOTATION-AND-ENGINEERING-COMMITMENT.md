@@ -44,6 +44,12 @@ They reveal how confidence becomes action.
 
 ---
 
+#### Fig-004-Craftsman-Quotation-as-an-External-Projection-of-Confidence-Thickness.png
+
+![./figures/Fig-004-Craftsman-Quotation-as-an-External-Projection-of-Confidence-Thickness.png](./figures/Fig-004-Craftsman-Quotation-as-an-External-Projection-of-Confidence-Thickness.png)
+
+---
+
 # 2. Why Quotation Is a Feasibility Problem
 
 A quotation is often treated as a commercial artifact: a price and a timeline.

@@ -30,6 +30,12 @@ It is the framework for understanding how feasibility can still be argued when e
 
 ---
 
+#### ./figures/Fig-003-Patchwork-Feasibility-Proof.png
+
+![./figures/Fig-003-Patchwork-Feasibility-Proof.png](./figures/Fig-003-Patchwork-Feasibility-Proof.png)
+
+---
+
 # 2. Why a New Notion of “Proof” Is Needed
 
 In many real-world settings, requiring a single complete precedent is too restrictive.

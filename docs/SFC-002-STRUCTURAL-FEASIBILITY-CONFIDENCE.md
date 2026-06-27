@@ -28,6 +28,12 @@ It is a theory of **disciplined feasibility judgment under partial novelty**.
 
 ---
 
+#### ./figures/Fig-001-Confirmed-Zone-Extension-Zone-Speculative-Zone.png
+
+![./figures/Fig-001-Confirmed-Zone-Extension-Zone-Speculative-Zone.png](./figures/Fig-001-Confirmed-Zone-Extension-Zone-Speculative-Zone.png)
+
+---
+
 # 2. A First Definition
 
 ## **Structural Feasibility Confidence (SFC)**

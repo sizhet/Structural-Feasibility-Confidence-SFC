@@ -26,8 +26,6 @@ Instead, confidence tends to weaken gradually and unevenly as the target moves a
 
 Function Tunnel Confidence Thickness exists to describe that graded and directional extension capacity.
 
----
-
 # 2. From Tunnel Existence to Tunnel Thickness
 
 A function tunnel, in the broad sense used here, is a structured family of workable trajectories, routines, decompositions, or transformations that preserve a viable path toward a class of outcomes.
