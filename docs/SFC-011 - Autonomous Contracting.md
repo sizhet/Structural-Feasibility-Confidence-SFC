@@ -73,6 +73,12 @@ This verification naturally requires Structural Feasibility Confidence.
 
 ---
 
+#### ./figures/Fig-012-Autonomous-Contracting-Between-ASI-Systems.png
+
+![./figures/Fig-012-Autonomous-Contracting-Between-ASI-Systems.png](./figures/Fig-012-Autonomous-Contracting-Between-ASI-Systems.png)
+
+---
+
 # 4. Executable Contracts
 
 Traditional contracts remain static after signing.

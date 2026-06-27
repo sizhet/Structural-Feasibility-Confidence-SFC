@@ -20,6 +20,12 @@ Confidence is therefore interpreted as the accumulated structural evidence suppo
 
 ---
 
+#### ./figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png
+
+![./figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png](./figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png)
+
+---
+
 # 1. Beyond Similarity
 
 Traditional metric learning attempts to answer one question:
@@ -59,6 +65,14 @@ This hierarchical organization naturally supports incremental refinement while m
 # 3. One Tree, Three Validations
 
 Each node derives its feasibility score from three complementary validation mechanisms.
+
+---
+
+#### ./figures/Fig-011-One-Tree-Three-Validations.png
+
+![./figures/Fig-011-One-Tree-Three-Validations.png](./figures/Fig-011-One-Tree-Three-Validations.png)
+
+---
 
 ## 3.1 Concept Coverage Validation
 

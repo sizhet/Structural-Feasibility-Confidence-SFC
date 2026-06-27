@@ -16,6 +16,12 @@ This perspective naturally introduces geometric intuition into feasibility reaso
 
 ---
 
+#### ./figures/Fig-013-From-Gap-Bridging-to-Feasible-Region.png
+
+![./figures/Fig-013-From-Gap-Bridging-to-Feasible-Region.png](./figures/Fig-013-From-Gap-Bridging-to-Feasible-Region.png)
+
+---
+
 # 1. The Classical Gap View
 
 Traditional Gap Bridging describes evolution as:

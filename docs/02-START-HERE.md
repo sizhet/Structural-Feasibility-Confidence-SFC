@@ -22,6 +22,12 @@ Rather than treating confidence as probability, SFC interprets confidence as **a
 
 ---
 
+#### ./figures/Fig-016-SFC-DOI-Overall-Roadmap.png
+
+![./figures/Fig-016-SFC-DOI-Overall-Roadmap.png](./figures/Fig-016-SFC-DOI-Overall-Roadmap.png)
+
+---
+
 # Why This Repository Matters
 
 Many real engineering problems cannot be solved by similarity alone.
