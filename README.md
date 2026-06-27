@@ -62,7 +62,7 @@ The repository is intentionally organized into two phases.
 
 ---
 
-#### ./figures/Fig-016-SFC-DOI-Overall-Roadmap.png
+#### Fig-016-SFC-DOI-Overall-Roadmap.png
 
 ![./docs/figures/Fig-016-SFC-DOI-Overall-Roadmap.png](./docs/figures/Fig-016-SFC-DOI-Overall-Roadmap.png)
 
@@ -126,6 +126,12 @@ Confidence is accumulated structural evidence.
 
 ---
 
+#### Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png
+
+![./docs/figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png](./docs/figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png)
+
+---
+
 ## 2. Similarity is not Feasibility
 
 Two structures may look similar but be impossible to transform into one another.
@@ -137,6 +143,14 @@ Feasibility therefore becomes a richer optimization objective than similarity.
 ---
 
 ## 3. Feasibility Can Be Explicitly Computed
+
+---
+
+#### Fig-011-One-Tree-Three-Validations.png
+
+![./docs/figures/Fig-011-One-Tree-Three-Validations.png](./docs/figures/Fig-011-One-Tree-Three-Validations.png)
+
+---
 
 Instead of relying entirely on implicit neural representations,
 
@@ -151,6 +165,14 @@ This produces an explicit structural feasibility score.
 ---
 
 ## 4. Confidence Grows Hierarchically
+
+---
+
+#### Fig-012-Autonomous-Contracting-Between-ASI-Systems.png
+
+![./docs/figures/Fig-012-Autonomous-Contracting-Between-ASI-Systems.png](./docs/figures/Fig-012-Autonomous-Contracting-Between-ASI-Systems.png)
+
+---
 
 Local feasibility evidence accumulates upward through the structural tree.
 
