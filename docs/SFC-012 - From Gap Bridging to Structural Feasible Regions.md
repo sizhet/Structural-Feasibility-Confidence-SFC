@@ -16,7 +16,7 @@ This perspective naturally introduces geometric intuition into feasibility reaso
 
 ---
 
-#### ./figures/Fig-013-From-Gap-Bridging-to-Feasible-Region.png
+#### .Fig-013-From-Gap-Bridging-to-Feasible-Region.png
 
 ![./figures/Fig-013-From-Gap-Bridging-to-Feasible-Region.png](./figures/Fig-013-From-Gap-Bridging-to-Feasible-Region.png)
 

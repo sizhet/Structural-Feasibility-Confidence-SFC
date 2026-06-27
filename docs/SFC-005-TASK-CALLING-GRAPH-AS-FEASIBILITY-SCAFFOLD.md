@@ -29,7 +29,7 @@ That would destroy much of their value as planning structures.
 
 ---
 
-#### ./figures/Fig-002-Task-Calling-Graph-vs-Action-Calling-Graph.png
+#### Fig-002-Task-Calling-Graph-vs-Action-Calling-Graph.png
 
 ![./figures/Fig-002-Task-Calling-Graph-vs-Action-Calling-Graph.png](./figures/Fig-002-Task-Calling-Graph-vs-Action-Calling-Graph.png)
 

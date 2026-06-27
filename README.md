@@ -60,6 +60,14 @@ SFC attempts to make this hidden reasoning process explicit.
 
 The repository is intentionally organized into two phases.
 
+---
+
+#### ./figures/Fig-016-SFC-DOI-Overall-Roadmap.png
+
+![./docs/figures/Fig-016-SFC-DOI-Overall-Roadmap.png](./docs/figures/Fig-016-SFC-DOI-Overall-Roadmap.png)
+
+---
+
 ## Phase I — Phenomena
 
 The first nine articles introduce observable engineering phenomena.

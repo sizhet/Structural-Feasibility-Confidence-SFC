@@ -16,13 +16,13 @@ Structural Feasibility Metrics (SFM) therefore represent a complementary directi
 
 ---
 
-#### ./figures/Fig-014-Evolution-of-Human-Cooperation.png
+#### Fig-014-Evolution-of-Human-Cooperation.png
 
 ![./figures/Fig-014-Evolution-of-Human-Cooperation.png](./figures/Fig-014-Evolution-of-Human-Cooperation.png)
 
 ---
 
-#### ./figures/Fig-015-Evolution-of-Human-Cooperation-From-Similarity-to-Structure-Intelligence.png
+#### Fig-015-Evolution-of-Human-Cooperation-From-Similarity-to-Structure-Intelligence.png
 
 ![./figures/Fig-015-Evolution-of-Human-Cooperation-From-Similarity-to-Structure-Intelligence.png](./figures/Fig-015-Evolution-of-Human-Cooperation-From-Similarity-to-Structure-Intelligence.png)
 

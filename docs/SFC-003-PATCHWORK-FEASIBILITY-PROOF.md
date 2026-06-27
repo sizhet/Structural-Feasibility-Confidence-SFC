@@ -30,7 +30,7 @@ It is the framework for understanding how feasibility can still be argued when e
 
 ---
 
-#### ./figures/Fig-003-Patchwork-Feasibility-Proof.png
+#### Fig-003-Patchwork-Feasibility-Proof.png
 
 ![./figures/Fig-003-Patchwork-Feasibility-Proof.png](./figures/Fig-003-Patchwork-Feasibility-Proof.png)
 

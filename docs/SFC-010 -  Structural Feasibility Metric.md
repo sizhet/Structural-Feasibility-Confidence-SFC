@@ -20,7 +20,7 @@ Confidence is therefore interpreted as the accumulated structural evidence suppo
 
 ---
 
-#### ./figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png
+#### Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png
 
 ![./figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png](./figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png)
 
@@ -68,7 +68,7 @@ Each node derives its feasibility score from three complementary validation mech
 
 ---
 
-#### ./figures/Fig-011-One-Tree-Three-Validations.png
+#### Fig-011-One-Tree-Three-Validations.png
 
 ![./figures/Fig-011-One-Tree-Three-Validations.png](./figures/Fig-011-One-Tree-Three-Validations.png)
 
