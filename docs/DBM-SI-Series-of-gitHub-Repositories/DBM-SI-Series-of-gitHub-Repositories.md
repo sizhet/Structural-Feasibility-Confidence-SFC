@@ -127,3 +127,7 @@
 41. Structural Cognitive Runtime (SCR) - From Structural Cognitive Emergence to ASI Brain Units \
     A research framework for turning structural cognition from an explanatory theory into an executable, diagnosable, and developmental runtime architecture. \
     Repository: https://github.com/sizhet/Structural-Cognitive-Runtime-SCR
+    
+42. Structural Feasibility Confidence (SFC) - \
+    From Confidence Thickness to Structural Feasibility Metrics \
+    Repository: https://github.com/sizhet/Structural-Feasibility-Confidence-SFC
