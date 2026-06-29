@@ -214,6 +214,37 @@ Future Structural Feasibility Metrics
 
 This figure serves as the overall conceptual map of the repository.
 
+# Phase III — Advanced Scopes and Functions
+
+## Fig-210
+
+**LLMs as Implicit Structural Feasibility Engines**
+    
+    docs/figures/Fig-210-LLMs-as-Implicit-Structural-Feasibility-Engines.png
+
+## Fig-210X
+
+**Structural Feasibility Scope Principle (SFSP)**
+
+    docs/figures/Fig-210X-Structural-Feasibility-Scope-Principle-SFSP.png
+    
+## Fig-211
+
+**LLM and SI/ASI Component and Application Coverage Comparative Analysis**
+
+    docs/figures/Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png
+
+## Fig-212
+**LLMs as Structural Collaborative Intelligence**
+
+    docs/figures/Fig-212-Structural-Collaborative-Intelligence.png
+
+## Fig-213
+
+**Structural Runtime Transfer Principle**
+
+    docs/figures/Fig-213-Structural-Runtime-Transfer-Principle.png
+
 ---
 
 # Recommended Figure Reading Order
@@ -263,6 +294,28 @@ Fig-015
 Fig-016
 
 This order follows the natural progression from engineering intuition to algorithmic mechanism and finally to future AI cooperation.
+
+---
+
+Then, Readers can read the figures on advanced Scopes and functions:
+
+Fig-210
+
+↓
+
+Fig-210X
+
+↓
+
+Fig-211
+
+↓
+
+Fig-212
+
+↓
+
+Fig-213
 
 ---
 
