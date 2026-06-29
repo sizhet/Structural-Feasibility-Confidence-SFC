@@ -57,9 +57,9 @@ structure.
 
 ---
 
-#### Fig-SFC-013-Structural-Runtime-Transfer-Principle.png
+#### Fig-213-Structural-Runtime-Transfer-Principle.png
 
-![./figures/Fig-SFC-013-Structural-Runtime-Transfer-Principle.png](./figures/Fig-SFC-013-Structural-Runtime-Transfer-Principle.png)
+![./figures/Fig-213-Structural-Runtime-Transfer-Principle.png](figures/Fig-213-Structural-Runtime-Transfer-Principle.png)
 
 ---
 

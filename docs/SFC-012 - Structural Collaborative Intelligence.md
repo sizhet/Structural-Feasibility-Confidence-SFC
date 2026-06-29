@@ -29,9 +29,9 @@ SCI therefore represents not merely a new workflow, but a new architecture for c
 
 ---
 
-#### Fig-SFC-012-Structural-Collaborative-Intelligence.png
+#### Fig-212-Structural-Collaborative-Intelligence.png
 
-![./figures/Fig-SFC-012-Structural-Collaborative-Intelligence.png](./figures/Fig-SFC-012-Structural-Collaborative-Intelligence.png)
+![./figures/Fig-212-Structural-Collaborative-Intelligence.png](figures/Fig-212-Structural-Collaborative-Intelligence.png)
 
 ---
 

@@ -13,9 +13,9 @@ We further argue that Structural Intelligence does not compete with LLMs. Instea
 
 ---
 
-#### Fig-SFC-010-LLMs-as-Implicit-Structural-Feasibility-Engines.png
+#### Fig-210--LLMs-as-Implicit-Structural-Feasibility-Engines.png
 
-![./figures/Fig-SFC-010-LLMs-as-Implicit-Structural-Feasibility-Engines.png](./figures/Fig-SFC-010-LLMs-as-Implicit-Structural-Feasibility-Engines.png)
+![./figures/Fig-210--LLMs-as-Implicit-Structural-Feasibility-Engines.png](figures/Fig-210-LLMs-as-Implicit-Structural-Feasibility-Engines.png)
 
 ---
 
@@ -677,9 +677,9 @@ but from a progressively richer structural runtime.
 
 ---
 
-#### Fig-SFC-020-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png
+#### Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png
 
-![./figures/Fig-SFC-020-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png](./figures/Fig-SFC-020-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png)
+![./figures/Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png](figures/Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png)
 
 ---
 
