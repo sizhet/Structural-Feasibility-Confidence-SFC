@@ -68,6 +68,8 @@ Instead,
 
 it provides an explicit engineering interpretation of many hidden mechanisms already operating inside them.
 
+---
+
 ## 2. Why LLMs Should Be Viewed Structurally
 
 Traditional descriptions often characterize LLMs as statistical language models.
@@ -134,6 +136,8 @@ but rather
 
 Token prediction becomes only the visible output of a much deeper structural scoring process.
 
+---
+
 ## 3. LLMs as Implicit Structural Feasibility Engines
 
 We therefore propose the following interpretation.
@@ -185,6 +189,8 @@ all serve as approximations to structural ranking mechanisms.
 Consequently,
 
 many apparent language-generation behaviors may instead be viewed as manifestations of latent structural feasibility estimation.
+
+---
 
 ## 4. Implicit SI Components Already Inside LLMs
 
@@ -438,6 +444,8 @@ reusable,
 
 and continuously extensible.
 
+---
+
 ## 5. Why Scaling Continues to Work
 
 One of the most remarkable observations of modern AI is that increasing model scale consistently improves performance across a surprisingly wide range of tasks.
@@ -492,6 +500,8 @@ From this perspective,
 parameter growth is not merely increasing storage capacity.
 
 It is increasing the density of implicit structural feasibility knowledge.
+
+---
 
 ## 6. Why Scaling Eventually Shows Diminishing Returns
 
@@ -556,6 +566,8 @@ future improvements may increasingly depend upon introducing explicit structural
 This interpretation suggests that Structural Intelligence is not a replacement for scaling,
 
 but a complementary direction for overcoming its structural limitations.
+
+---
 
 ## 7. Why Human + LLM + Structural Intelligence Works So Well
 
@@ -707,6 +719,8 @@ This estimate suggests that modern LLMs already implement a substantial portion 
 
 although primarily in implicit and compressed forms.
 
+---
+
 ## 9. Application Co-Solvability
 
 Functional similarity alone does not determine practical usefulness.
@@ -787,6 +801,8 @@ common application coverage.
 
 This indicates that LLMs and Structural Intelligence should be regarded primarily as complementary systems rather than competing paradigms.
 
+---
+
 ## 10. Strategic Implications
 
 The interpretation proposed in this paper carries several important implications.
@@ -835,6 +851,8 @@ growth-capable,
 transferable,
 
 and continuously evolving intelligence.
+
+---
 
 ## 11. Conclusion
 
@@ -900,6 +918,8 @@ Together,
 
 they suggest a new engineering paradigm in which intelligence is progressively accumulated through reusable structural runtimes rather than parameter growth alone.
 
+---
+
 ## Key Takeaways
 - **LLMs can be interpreted as implicit structural feasibility engines rather than merely next-token predictors.**
 - Many core SI components already exist inside LLMs in compressed, parameterized forms.
@@ -909,6 +929,8 @@ they suggest a new engineering paradigm in which intelligence is progressively a
 - Estimated **Application Co-Solvability (ACSI)** ranges from 88–92% for routine tasks to **55–68%** for deep structural problems.
 - Human, LLM, and Structural Intelligence form complementary roles within a shared structural runtime.
 - The future frontier is likely **Structural Runtime Engineering**, where explicit structural assets augment rather than replace foundation models.
+
+---
 
 ## Relation to the SFC Series
 

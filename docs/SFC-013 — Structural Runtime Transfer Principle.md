@@ -7,17 +7,11 @@ Modern Artificial Intelligence has achieved remarkable capabilities through incr
 
 Amid these continual changes, one observation remains remarkably stable:
 
-Structures transfer far more reliably than implementations.
+> **Structures transfer far more reliably than implementations.**
 
 This paper proposes the Structural Runtime Transfer Principle (SRTP), which argues that explicit structural assets—including Calling Graphs, Differential Trees, Function Tunnels, Metric Frameworks, Gap Engines, and Structural Feasibility Confidence—represent transformations rather than implementations. Consequently, they naturally survive changes in programming languages, models, applications, execution engines, and physical embodiments.
 
 Rather than treating implementations as the primary carrier of intelligence, SRTP identifies Structural Runtime as the long-term transferable infrastructure of intelligent systems. This perspective provides a theoretical foundation for reusable, explainable, cross-domain, and continuously evolving Structural Intelligence.
-
----
-
-#### Fig-SFC-013-Structural-Runtime-Transfer-Principle.png
-
-![./figures/Fig-SFC-013-Structural-Runtime-Transfer-Principle.png](./figures/Fig-SFC-013-Structural-Runtime-Transfer-Principle.png)
 
 ---
 
@@ -51,7 +45,7 @@ The underlying structure remains.
 
 This observation motivates an important question:
 
-What is the true carrier of transferable intelligence?
+> **What is the true carrier of transferable intelligence?**
 
 Traditional engineering often assumes that implementations are the primary assets.
 
@@ -61,11 +55,19 @@ The enduring carrier is
 
 structure.
 
+---
+
+#### Fig-SFC-013-Structural-Runtime-Transfer-Principle.png
+
+![./figures/Fig-SFC-013-Structural-Runtime-Transfer-Principle.png](./figures/Fig-SFC-013-Structural-Runtime-Transfer-Principle.png)
+
+---
+
 ## 2. Parameters Preserve Implementations; Structures Preserve Transformations
 
 One of the central principles emerging from Structural Intelligence may be summarized succinctly.
 
-Parameters preserve implementations. Structures preserve transformations.
+> **Parameters preserve implementations. Structures preserve transformations.**
 
 Parameters encode
 
@@ -108,6 +110,8 @@ engine-specific,
 while structures are
 
 engine-independent.
+
+---
 
 ## 3. Why Structures Transfer Better
 
@@ -217,6 +221,8 @@ Examples include
 
 Knowledge therefore becomes progressively cumulative.
 
+---
+
 ## 4. Multi-Level Transferability
 
 Structural Runtime naturally supports several different forms of transfer.
@@ -325,6 +331,8 @@ Only perception and execution adapters require modification.
 
 The structural runtime itself survives.
 
+---
+
 ## 5. Structural Runtime Engineering
 
 These observations suggest a new engineering discipline.
@@ -359,6 +367,8 @@ explanation,
 
 and transfer.
 
+---
+
 ## 6. Structural Runtime as Long-Term Infrastructure
 
 The long-term value of Structural Runtime lies in its cumulative nature.
@@ -383,6 +393,8 @@ scientific infrastructure
 
 rather than software products.
 
+---
+
 ## 7. Strategic Implications
 
 The Structural Runtime Transfer Principle changes how future AI systems should be developed.
@@ -395,11 +407,11 @@ transferable structural assets.
 
 Future investments may therefore prioritize
 
-reusable structures,
-explainable organization,
-transferable runtime libraries,
-structural metrics,
-collaborative structural memory.
+- reusable structures,
+- explainable organization,
+- transferable runtime libraries,
+- structural metrics,
+- collaborative structural memory.
 
 The resulting systems become
 
@@ -414,6 +426,8 @@ Instead,
 their primary asset becomes
 
 persistent structural knowledge.
+
+---
 
 ## 8. Relation to Structural Collaborative Intelligence
 
@@ -444,6 +458,8 @@ every structural improvement immediately benefits future collaborations,
 regardless of implementation.
 
 SRTP therefore provides one of the foundational principles underlying SCI.
+
+---
 
 ## 9. Conclusion
 
@@ -497,6 +513,8 @@ Structural Runtime thus becomes not only an execution environment,
 
 but a long-term carrier of accumulated intelligence.
 
+---
+
 ## Key Takeaways
 - **Structures transfer more reliably than implementations because they encode invariant transformations rather than execution details.**
 - **Parameters preserve implementations; structures preserve transformations.**
@@ -505,6 +523,8 @@ but a long-term carrier of accumulated intelligence.
 - Structural Runtime Engineering emphasizes **execution, explanation, growth, reuse, and transfer** rather than execution alone.
 - Long-term AI progress depends increasingly on accumulating reusable structural assets instead of repeatedly rebuilding implementations.
 - **Structural Runtime Transfer Principle (SRTP)** provides one of the theoretical foundations for **Structural Collaborative Intelligence (SCI)**.
+
+---
 
 ## Relation to Fig-303
 

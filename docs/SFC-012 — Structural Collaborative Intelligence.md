@@ -483,6 +483,8 @@ It is therefore not simply another AI workflow,
 
 but a candidate paradigm for the next generation of human-centered intelligent systems.
 
+---
+
 ## Key Takeaways
 - Future AI is likely to be collaborative rather than model-centric.
 - Humans, LLMs, and Structural Runtime contribute complementary capabilities.
@@ -491,6 +493,8 @@ but a candidate paradigm for the next generation of human-centered intelligent s
 - Structural assets such as Calling Graphs, Differential Trees, Function Tunnels, and Metric Frameworks enable explainability, reuse, transferability, and continuous growth.
 - SCI naturally supports collaboration across models, applications, and embodiments.
 - Rather than replacing humans or LLMs, Structural Runtime organizes and amplifies both into a continuously evolving intelligence ecosystem.
+
+---
 
 ## Relation to Fig-302
 
