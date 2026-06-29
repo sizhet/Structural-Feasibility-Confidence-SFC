@@ -13,6 +13,14 @@ This paper proposes the Structural Runtime Transfer Principle (SRTP), which argu
 
 Rather than treating implementations as the primary carrier of intelligence, SRTP identifies Structural Runtime as the long-term transferable infrastructure of intelligent systems. This perspective provides a theoretical foundation for reusable, explainable, cross-domain, and continuously evolving Structural Intelligence.
 
+---
+
+#### Fig-SFC-013-Structural-Runtime-Transfer-Principle.png
+
+![./figures/Fig-SFC-013-Structural-Runtime-Transfer-Principle.png](./figures/Fig-SFC-013-Structural-Runtime-Transfer-Principle.png)
+
+---
+
 ## 1. Introduction
 
 Software changes.

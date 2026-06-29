@@ -27,6 +27,14 @@ Through repeated iterations, structural assets—including Calling Graphs, Diffe
 
 SCI therefore represents not merely a new workflow, but a new architecture for continuously evolving intelligence.
 
+---
+
+#### Fig-SFC-012-Structural-Collaborative-Intelligence.png
+
+![./figures/Fig-SFC-012-Structural-Collaborative-Intelligence.png](./figures/Fig-SFC-012-Structural-Collaborative-Intelligence.png)
+
+---
+
 ## 1. From Prompt Engineering to Structural Collaboration
 
 The first generation of LLM applications focused primarily on prompts.

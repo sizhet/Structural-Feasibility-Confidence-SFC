@@ -11,6 +11,14 @@ From this perspective, LLMs already realize many fundamental SI components—inc
 
 We further argue that Structural Intelligence does not compete with LLMs. Instead, SI externalizes, modularizes, explains, and extends many of the structural mechanisms that already exist implicitly inside LLMs. This interpretation provides a coherent explanation for both the extraordinary success of LLM scaling and its gradually diminishing returns, while suggesting a collaborative future centered on Human–LLM–Structural Runtime co-evolution.
 
+---
+
+#### Fig-SFC-010-LLMs-as-Implicit-Structural-Feasibility-Engines.png
+
+![./figures/Fig-SFC-010-LLMs-as-Implicit-Structural-Feasibility-Engines.png](./figures/Fig-SFC-010-LLMs-as-Implicit-Structural-Feasibility-Engines.png)
+
+---
+
 ## 1. Motivation
 
 The rapid success of Large Language Models has fundamentally changed modern artificial intelligence.
@@ -405,12 +413,12 @@ explicit Structural Intelligence introduces observable scoring dimensions,
 
 including
 
-structural compatibility,
-bridge complexity,
-transformation feasibility,
-confidence accumulation,
-constraint preservation,
-and path robustness.
+- structural compatibility,
+- bridge complexity,
+- transformation feasibility,
+- confidence accumulation,
+- constraint preservation,
+- and path robustness.
 
 Viewed from this perspective,
 
@@ -654,6 +662,14 @@ and solve.
 The improvement therefore arises not merely from better prompts,
 
 but from a progressively richer structural runtime.
+
+---
+
+#### Fig-SFC-020-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png
+
+![./figures/Fig-SFC-020-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png](./figures/Fig-SFC-020-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png)
+
+---
 
 ## 8. Functional Coupling Between LLM and Structural Intelligence
 
