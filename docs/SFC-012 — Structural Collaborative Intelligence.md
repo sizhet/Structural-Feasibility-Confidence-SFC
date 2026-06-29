@@ -15,13 +15,13 @@ This paper proposes Structural Collaborative Intelligence (SCI), a new collabora
 
 Instead of following the traditional
 
-Question → Answer
+> Question → Answer
 
 interaction model,
 
 SCI introduces an iterative structural cycle:
 
-    Structure → Gap → Bridge → Runtime → New Structure
+> **Structure → Gap → Bridge → Runtime → New Structure**
 
 Through repeated iterations, structural assets—including Calling Graphs, Differential Trees, Function Tunnels, Metric Frameworks, Gap Engines, and Structural Feasibility Confidence—are continuously accumulated, refined, and transferred across applications.
 
@@ -81,24 +81,26 @@ Future intelligence requires something more persistent.
 
 It requires
 
-shared structural assets.
+**shared structural assets.**
+
+---
 
 ## 2. Three Complementary Participants
 
 SCI proposes that future intelligence naturally consists of three complementary participants.
 
-Human
+### Human
 
 Humans contribute
 
-long-term goals,
-value alignment,
-creativity,
-judgment,
-strategic direction,
-problem selection,
-feasibility intuition,
-scientific curiosity.
+- long-term goals,
+- value alignment,
+- creativity,
+- judgment,
+- strategic direction,
+- problem selection,
+- feasibility intuition,
+- scientific curiosity.
 
 Humans remain responsible for deciding
 
@@ -108,42 +110,42 @@ why it matters,
 
 and when discoveries become meaningful.
 
-Large Language Models
+### Large Language Models
 
 LLMs contribute
 
-massive implicit structural knowledge,
-pattern recognition,
-analogy generation,
-structural expansion,
-language generation,
-ranking,
-drafting,
-latent feasibility estimation.
+- massive implicit structural knowledge,
+- pattern recognition,
+- analogy generation,
+- structural expansion,
+- language generation,
+- ranking,
+- drafting,
+- latent feasibility estimation.
 
 As argued in SFC-010,
 
 LLMs behave as
 
-implicit structural feasibility engines.
+> **implicit structural feasibility engines.**
 
 They provide extraordinary structural coverage,
 
 although much of it remains compressed inside parameter space.
 
-Structural Runtime
+### Structural Runtime
 
 Structural Runtime contributes
 
-Calling Graph execution,
-Differential Tree organization,
-Universal Naming,
-Gap localization,
-Metric Frameworks,
-Structural Feasibility Confidence,
-explainable reasoning,
-reusable structural memory,
-continuous structural growth.
+- Calling Graph execution,
+- Differential Tree organization,
+- Universal Naming,
+- Gap localization,
+- Metric Frameworks,
+- Structural Feasibility Confidence,
+- explainable reasoning,
+- reusable structural memory,
+- continuous structural growth.
 
 Unlike parameterized models,
 
@@ -157,6 +159,8 @@ modifiable,
 
 and transferable.
 
+---
+
 Together,
 
 these three participants form an integrated intelligence ecosystem.
@@ -164,6 +168,8 @@ these three participants form an integrated intelligence ecosystem.
 None replaces the others.
 
 Each amplifies the strengths of the others.
+
+---
 
 ## 3. From Question–Answer to Structure–Gap–Structure
 
@@ -217,7 +223,9 @@ from document accumulation
 
 to
 
-runtime accumulation.
+**runtime accumulation.**
+
+---
 
 ## 4. Runtime Becomes the Primary Growing Asset
 
@@ -233,13 +241,13 @@ As projects continue,
 
 participants increasingly share
 
-common naming conventions,
-stable Calling Graphs,
-Differential Trees,
-Metric Frameworks,
-structural confidence models,
-reusable Gap patterns,
-Function Tunnel libraries.
+- common naming conventions,
+- stable Calling Graphs,
+- Differential Trees,
+- Metric Frameworks,
+- structural confidence models,
+- reusable Gap patterns,
+- Function Tunnel libraries.
 
 New problems are therefore processed inside an increasingly organized structural environment.
 
@@ -252,6 +260,8 @@ The runtime,
 not the prompt,
 
 becomes the principal growing asset.
+
+---
 
 ## 5. Human–LLM–Structural Runtime Co-Evolution
 
@@ -269,45 +279,47 @@ which further improve the runtime.
 
 The resulting evolution cycle becomes
 
-Human
-
-↓
-
-Structure
-
-↓
-
-LLM Expansion
-
-↓
-
-Runtime Update
-
-↓
-
-New Discovery
-
-↓
-
-Better Structure
+    Human
+    
+    ↓
+    
+    Structure
+    
+    ↓
+    
+    LLM Expansion
+    
+    ↓
+    
+    Runtime Update
+    
+    ↓
+    
+    New Discovery
+    
+    ↓
+    
+    Better Structure
 
 rather than
 
-Human
-
-↓
-
-Prompt
-
-↓
-
-Answer
+    Human
+    
+    ↓
+    
+    Prompt
+    
+    ↓
+    
+    Answer
 
 This distinction is fundamental.
 
 SCI is not an interaction protocol.
 
 It is an evolving intelligence architecture.
+
+---
 
 ## 6. Structural Assets Instead of Conversation History
 
@@ -317,28 +329,30 @@ SCI instead emphasizes structural assets.
 
 Examples include
 
-Concept Core libraries,
-Calling Graph repositories,
-Differential Tree hierarchies,
-Function Tunnel collections,
-Metric Frameworks,
-Gap databases,
-Structural Confidence records.
+- Concept Core libraries,
+- Calling Graph repositories,
+- Differential Tree hierarchies,
+- Function Tunnel collections,
+- Metric Frameworks,
+- Gap databases,
+- Structural Confidence records.
 
 These assets possess several important properties.
 
 They are
 
-explainable,
-reusable,
-versionable,
-measurable,
-transferable,
-continuously improvable.
+- explainable,
+- reusable,
+- versionable,
+- measurable,
+- transferable,
+- continuously improvable.
 
 Most importantly,
 
 they remain largely independent of any particular LLM implementation.
+
+---
 
 ## 7. Why Structural Collaboration Is More Scalable
 
@@ -376,6 +390,8 @@ into
 
 continuous structural infrastructure construction.
 
+---
+
 ## 8. Beyond Human–AI Cooperation
 
 SCI also provides a framework for future multi-agent systems.
@@ -386,12 +402,12 @@ multiple execution engines may share the same structural assets.
 
 Examples include
 
-different LLMs,
-Brain Units,
-robots,
-autonomous vehicles,
-digital twins,
-scientific simulators.
+- different LLMs,
+- Brain Units,
+- robots,
+- autonomous vehicles,
+- digital twins,
+- scientific simulators.
 
 The execution engine may change.
 
@@ -407,6 +423,8 @@ cross-application,
 
 and cross-embodiment collaboration.
 
+---
+
 ## 9. Strategic Implications
 
 SCI suggests a significant shift in future AI engineering.
@@ -417,11 +435,11 @@ Instead,
 
 future intelligence systems should increasingly invest in
 
-reusable structural runtimes,
-transferable structural assets,
-explainable metric frameworks,
-collective structural memory,
-collaborative runtime evolution.
+- reusable structural runtimes,
+- transferable structural assets,
+- explainable metric frameworks,
+- collective structural memory,
+- collaborative runtime evolution.
 
 The most valuable long-term asset therefore becomes
 
@@ -429,7 +447,9 @@ not merely parameter scale,
 
 but
 
-Structural Runtime Capital.
+**Structural Runtime Capital.**
+
+---
 
 ## 10. Conclusion
 
@@ -443,7 +463,7 @@ Together,
 
 these three components form
 
-Structural Collaborative Intelligence (SCI).
+**Structural Collaborative Intelligence (SCI).**
 
 SCI represents a transition
 
