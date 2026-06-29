@@ -5,7 +5,7 @@
 
 Large Language Models (LLMs) have demonstrated remarkable performance across language understanding, programming, scientific reasoning, and numerous engineering tasks. Their continuing improvement through scaling has motivated extensive discussions regarding the nature of intelligence, reasoning, and future AI architectures.
 
-This paper argues that many of the core capabilities exhibited by modern LLMs can be better understood from the perspective of Structural Intelligence (SI) rather than purely statistical learning. Instead of viewing LLMs merely as probabilistic next-token predictors, we propose interpreting them as implicit structural feasibility engines that perform large-scale structural scoring, ranking, and feasibility estimation within a highly compressed parameter space.
+This paper argues that many of the core capabilities exhibited by modern LLMs can be better understood from the perspective of **Structural Intelligence (SI)** rather than purely statistical learning. Instead of viewing LLMs merely as probabilistic next-token predictors, we propose interpreting them as **implicit structural feasibility engines** that perform large-scale structural scoring, ranking, and feasibility estimation within a highly compressed parameter space.
 
 From this perspective, LLMs already realize many fundamental SI components—including Concept Cores (CCC), Universal Naming and Typing, latent Differential Trees, Event Sequence Models, Function Tunnel representations, and metric-based structural scoring—but implement them implicitly through distributed representations rather than explicit structural runtimes.
 
@@ -27,28 +27,28 @@ Across diverse domains—including software engineering, mathematics, scientific
 
 Yet despite these impressive achievements, an important question remains largely unanswered:
 
-What kind of intelligence is actually emerging inside large language models?
+> **What kind of intelligence is actually emerging inside large language models?**
 
 Most existing explanations emphasize
 
-statistical learning,
-representation learning,
-attention mechanisms,
-next-token prediction,
-scaling laws,
-or emergent behaviors.
+- statistical learning,
+- representation learning,
+- attention mechanisms,
+- next-token prediction,
+- scaling laws,
+- or emergent behaviors.
 
 These perspectives successfully explain many engineering characteristics of LLMs.
 
 However, they explain less clearly why LLMs repeatedly exhibit behaviors resembling
 
-conceptual organization,
-structural analogy,
-engineering feasibility estimation,
-hierarchical abstraction,
-problem decomposition,
-solution ranking,
-and latent reasoning.
+- conceptual organization,
+- structural analogy,
+- engineering feasibility estimation,
+- hierarchical abstraction,
+- problem decomposition,
+- solution ranking,
+- and latent reasoning.
 
 These observations suggest that something more fundamental may be occurring beneath the surface.
 
@@ -58,7 +58,7 @@ Rather than treating Structural Intelligence and LLMs as competing paradigms, we
 
 Our central thesis is straightforward:
 
-Modern LLMs already implement many essential components of Structural Intelligence—but in an implicit, compressed, and parameterized form.
+> **Modern LLMs already implement many essential components of Structural Intelligence—but in an implicit, compressed, and parameterized form.**
 
 Consequently,
 
@@ -106,7 +106,7 @@ A capable LLM frequently performs the following sequence:
 
 None of these operations directly resemble simple next-token prediction.
 
-Instead, they resemble successive stages of structural feasibility evaluation.
+Instead, they resemble successive stages of **structural feasibility evaluation**.
 
 Similarly,
 
@@ -114,11 +114,11 @@ during scientific discussion,
 
 LLMs often
 
-compare conceptual frameworks,
-infer latent relationships,
-estimate plausible hypotheses,
-reject inconsistent reasoning,
-and rank alternative explanations.
+- compare conceptual frameworks,
+- infer latent relationships,
+- estimate plausible hypotheses,
+- reject inconsistent reasoning,
+- and rank alternative explanations.
 
 These behaviors indicate repeated structural evaluation rather than mere lexical prediction.
 
@@ -126,11 +126,11 @@ From the Structural Intelligence perspective,
 
 the fundamental computational question is not
 
-"Which token comes next?"
+> "Which token comes next?"
 
 but rather
 
-"Which structural continuation remains most feasible?"
+> "Which structural continuation remains most feasible?"
 
 Token prediction becomes only the visible output of a much deeper structural scoring process.
 
@@ -138,9 +138,9 @@ Token prediction becomes only the visible output of a much deeper structural sco
 
 We therefore propose the following interpretation.
 
-Definition
+> **Definition**
 
-A Large Language Model functions as an implicit structural feasibility engine that estimates, scores, and ranks possible structural continuations within an extremely compressed parameter space.
+> A Large Language Model functions as an implicit structural feasibility engine that estimates, scores, and ranks possible structural continuations within an extremely compressed parameter space.
 
 Several characteristics distinguish this interpretation.
 
@@ -162,11 +162,11 @@ Even without explicit logical constraints,
 
 they frequently avoid
 
-contradictory code,
-inconsistent narratives,
-impossible API usages,
-structurally invalid arguments,
-implausible engineering designs.
+- contradictory code,
+- inconsistent narratives,
+- impossible API usages,
+- structurally invalid arguments,
+- implausible engineering designs.
 
 This behavior resembles feasibility filtering rather than simple memorization.
 
@@ -220,16 +220,16 @@ For example,
 
 the concept
 
-"compiler"
+> "compiler"
 
 accumulates associations involving
 
-parsing,
-syntax,
-optimization,
-intermediate representation,
-code generation,
-error diagnostics,
+- parsing,
+- syntax,
+- optimization,
+- intermediate representation,
+- code generation,
+- error diagnostics,
 
 across billions of training examples.
 
@@ -257,11 +257,11 @@ A consistent naming system dramatically reduces reasoning complexity.
 
 Modern LLMs demonstrate remarkable ability to
 
-infer suitable terminology,
-normalize expressions,
-map synonyms,
-identify categories,
-generate meaningful identifiers.
+- infer suitable terminology,
+- normalize expressions,
+- map synonyms,
+- identify categories,
+- generate meaningful identifiers.
 
 These capabilities strongly resemble Universal Naming and Typing mechanisms.
 
@@ -277,11 +277,11 @@ Structural Intelligence proposes making this layer explicit through reusable Uni
 
 Doing so enables
 
-explainability,
-interoperability,
-reusable structural assets,
-long-term consistency,
-collective knowledge growth.
+- explainability,
+- interoperability,
+- reusable structural assets,
+- long-term consistency,
+- collective knowledge growth.
 
 ### 4.3 Differential Tree
 
@@ -307,11 +307,11 @@ or extend explicitly.
 
 Structural Intelligence instead introduces explicit Differential Trees whose
 
-branches,
-attributes,
-constraints,
-inheritance,
-localization,
+- branches,
+- attributes,
+- constraints,
+- inheritance,
+- localization,
 
 remain fully observable.
 
@@ -359,7 +359,7 @@ This suggests that Event Sequence Modeling constitutes one of the most mature im
 
 ### 4.5 Function Tunnel Representation
 
-One of the central ideas developed throughout the Structural Intelligence framework is the notion of a Function Tunnel (FT)—a constrained structural trajectory that preserves feasibility while guiding evolution toward a target objective.
+One of the central ideas developed throughout the Structural Intelligence framework is the notion of a **Function Tunnel (FT)**—a constrained structural trajectory that preserves feasibility while guiding evolution toward a target objective.
 
 Although LLMs contain no explicit representation labeled as a Function Tunnel, many of their strongest behaviors are consistent with tunnel-like computation.
 
@@ -377,7 +377,7 @@ As a consequence, the tunnels become extremely efficient to execute but difficul
 
 This observation motivates one of the central hypotheses of this work:
 
-Transformer inference can be interpreted as large-scale implicit Function Tunnel traversal performed within a compressed structural manifold.
+> **Transformer inference can be interpreted as large-scale implicit Function Tunnel traversal performed within a compressed structural manifold.**
 
 ### 4.6 Metric Scoring as the Hidden Computational Core
 
@@ -399,13 +399,13 @@ or reinforcement-based preference optimization,
 
 the computational objective remains remarkably similar:
 
-Estimate which continuation is structurally more feasible than competing alternatives.
+> **Estimate which continuation is structurally more feasible than competing alternatives.**
 
 Structural Intelligence proposes making this process explicit through reusable metric frameworks such as
 
-IS Metric Distance,
-HAS Metric Distance,
-and Feasibility Metric Distance.
+- IS Metric Distance,
+- HAS Metric Distance,
+- and Feasibility Metric Distance.
 
 Instead of relying exclusively on hidden parameter interactions,
 
@@ -448,7 +448,7 @@ However, from the Structural Intelligence perspective, scaling can be interprete
 
 Instead of simply saying
 
-larger models memorize more,
+> larger models memorize more,
 
 we propose a different interpretation.
 
@@ -456,13 +456,13 @@ Larger models gradually accumulate increasingly rich implicit structural assets.
 
 These include
 
-Concept Cores,
-Universal Naming patterns,
-latent Differential Trees,
-Event Sequence Models,
-Function Tunnel fragments,
-structural scoring experiences,
-and feasibility estimation examples.
+- Concept Cores,
+- Universal Naming patterns,
+- latent Differential Trees,
+- Event Sequence Models,
+- Function Tunnel fragments,
+- structural scoring experiences,
+- and feasibility estimation examples.
 
 Consequently,
 
@@ -480,12 +480,12 @@ Therefore,
 
 scaling continuously improves
 
-structural coverage,
-ranking quality,
-feasibility estimation,
-analogy generation,
-engineering robustness,
-and knowledge integration.
+- structural coverage,
+- ranking quality,
+- feasibility estimation,
+- analogy generation,
+- engineering robustness,
+- and knowledge integration.
 
 From this perspective,
 
@@ -579,33 +579,33 @@ These three participants naturally contribute different capabilities.
 
 The Human primarily provides
 
-long-term objectives,
-problem selection,
-research direction,
-value judgment,
-structural commitment,
-and discovery priorities.
+- long-term objectives,
+- problem selection,
+- research direction,
+- value judgment,
+- structural commitment,
+- and discovery priorities.
 
 The LLM contributes
 
-massive implicit structural knowledge,
-analogical reasoning,
-structural expansion,
-language generation,
-ranking,
-drafting,
-and latent feasibility estimation.
+- massive implicit structural knowledge,
+- analogical reasoning,
+- structural expansion,
+- language generation,
+- ranking,
+- drafting,
+- and latent feasibility estimation.
 
 Structural Intelligence contributes
 
-explicit Calling Graphs,
-Differential Trees,
-Universal Naming,
-Gap localization,
-Feasibility Metrics,
-Confidence estimation,
-structural explanations,
-and growth-capable runtime organization.
+- explicit Calling Graphs,
+- Differential Trees,
+- Universal Naming,
+- Gap localization,
+- Feasibility Metrics,
+- Confidence estimation,
+- structural explanations,
+- and growth-capable runtime organization.
 
 Together,
 
@@ -619,7 +619,7 @@ Rather than
     
     Answer
     
-    the process becomes
+the process becomes
     
     Structure
     
@@ -683,24 +683,25 @@ component-level analysis provides useful engineering estimates.
 
 Several major SI components already appear implicitly inside modern LLMs.
 
-Structural Component	Estimated Functional Coupling
-Concept Core (CCC)	85–90%
-Universal Naming / Typing	80–90%
-Differential Tree	70–80%
-Event Sequence Model	90–95%
-Metric Scoring	80–90%
-Function Tunnel	70–80%
-Gap Estimation	60–70%
-Feasibility Scoring	50–65%
-Calling Graph Runtime	35–50%
-Autonomous Why Generation	30–45%
-Growth-Capable Structural Runtime	25–40%
+| **Structural Component**	| **Estimated Functional Coupling** |
+|---|---|
+|Concept Core (CCC)	85–90%
+|Universal Naming / Typing	|80–90%
+|Differential Tree	|70–80%
+|Event Sequence Model	|90–95%
+|Metric Scoring	|80–90%
+|Function Tunnel	|70–80%
+|Gap Estimation	|60–70%
+|Feasibility Scoring	|50–65%
+|Calling Graph Runtime	|35–50%
+|Autonomous Why Generation	|30–45%
+|Growth-Capable Structural Runtime	|25–40%
 
 Using weighted estimation,
 
 the overall Functional Component Coupling Index (FCCI) is approximately
 
-68% ± 7%.
+> **68% ± 7%.**
 
 This estimate suggests that modern LLMs already implement a substantial portion of Structural Intelligence,
 
@@ -712,7 +713,7 @@ Functional similarity alone does not determine practical usefulness.
 
 An equally important question is
 
-How many real-world problems can both paradigms solve?
+> How many real-world problems can both paradigms solve?
 
 Application-level analysis provides another useful estimate.
 
@@ -720,47 +721,47 @@ Routine semantic tasks,
 
 including
 
-translation,
-summarization,
-programming assistance,
-classification,
-information retrieval,
+- translation,
+- summarization,
+- programming assistance,
+- classification,
+- information retrieval,
 
 show very high overlap.
 
 Estimated common solvability exceeds
 
-88–92%.
+**88–92%.**
 
 Medium-complexity engineering tasks,
 
 including
 
-software architecture,
-workflow design,
-research organization,
-system decomposition,
+- software architecture,
+- workflow design,
+- research organization,
+- system decomposition,
 
 remain highly overlapping,
 
 with estimated co-solvability around
 
-70–78%.
+**70–78%.**
 
 Deep structural problems,
 
 including
 
-autonomous research,
-scientific discovery,
-complex policy reasoning,
-structural evolution,
+- autonomous research,
+- scientific discovery,
+- complex policy reasoning,
+- structural evolution,
 
 show noticeably lower overlap,
 
 approximately
 
-55–68%.
+**55–68%.**
 
 These tasks increasingly benefit from explicit structural runtimes,
 
@@ -776,11 +777,11 @@ fully autonomous Structural Intelligence remains largely outside current LLM cap
 
 Consequently,
 
-the Application Co-Solvability Index (ACSI) depends upon application complexity.
+the **Application Co-Solvability Index (ACSI)** depends upon application complexity.
 
 Overall weighted estimates suggest
 
-72–82%
+> **72–82%**
 
 common application coverage.
 
@@ -810,12 +811,12 @@ future AI systems may benefit more from improving structural runtime organizatio
 
 Explicit
 
-Calling Graphs,
-Differential Trees,
-Metric Frameworks,
-Function Tunnels,
-Gap Engines,
-and Structural Runtime Engineering
+- Calling Graphs,
+- Differential Trees,
+- Metric Frameworks,
+- Function Tunnels,
+- Gap Engines,
+- and Structural Runtime Engineering
 
 provide engineering capabilities difficult to obtain through parameter scaling alone.
 
@@ -845,7 +846,7 @@ their remarkable performance becomes considerably more understandable when viewe
 
 Rather than treating LLMs as purely probabilistic language generators,
 
-this paper argues that they function more fundamentally as implicit structural feasibility engines.
+this paper argues that they function more fundamentally as **implicit structural feasibility engines**.
 
 Many foundational SI components—
 
