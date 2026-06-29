@@ -9,7 +9,7 @@ However, a deeper question naturally follows.
 
 When intelligent systems are transferred across domains, models, or embodiments, what is actually being transferred?
 
-This paper proposes the Structural Capability Closure Principle (SCCP).
+This paper proposes the **Structural Capability Closure Principle (SCCP).**
 
 Rather than viewing intelligence as a collection of independent structures, SCCP argues that practical intelligence is transferred primarily through capability closures—cooperating groups of structural assets that together form complete functional loops.
 
@@ -19,11 +19,13 @@ Capability closures preserve reusable intelligence.
 
 Consequently, the smallest transferable unit of advanced intelligence is often not a single Calling Graph, Differential Tree, or Function Tunnel, but an integrated structural closure capable of independently accomplishing meaningful tasks.
 
+---
+
 ## 1. From Structural Transfer to Capability Transfer
 
 The Structural Runtime Transfer Principle established that
 
-structures transfer better than implementations.
+> structures transfer better than implementations.
 
 This principle primarily considers the transferability of individual structural assets.
 
@@ -57,6 +59,8 @@ and
 
 Capability Transfer.
 
+---
+
 ## 2. Individual Structures Are Necessary but Not Sufficient
 
 Consider a Calling Graph.
@@ -69,12 +73,12 @@ However,
 
 without
 
-Differential Tree localization,
-Metric evaluation,
-Gap reasoning,
-Function Tunnel constraints,
-Policy selection,
-Structural Confidence,
+- Differential Tree localization,
+- Metric evaluation,
+- Gap reasoning,
+- Function Tunnel constraints,
+- Policy selection,
+- Structural Confidence,
 
 the Calling Graph cannot independently solve complex problems.
 
@@ -92,11 +96,13 @@ but none alone forms complete intelligence.
 
 This observation motivates a higher-level organizational principle.
 
+---
+
 ## 3. Capability Closures
 
 We define a Structural Capability Closure as
 
-a cooperating set of structural components that together forms a complete and reusable functional intelligence loop.
+> **a cooperating set of structural components that together forms a complete and reusable functional intelligence loop.**
 
 Unlike individual structures,
 
@@ -144,6 +150,8 @@ Removing any major component weakens or breaks the functional loop.
 
 The closure therefore becomes the practical carrier of reusable intelligence.
 
+---
+
 ## 4. Intelligence Exists in Relationships
 
 One important implication follows immediately.
@@ -181,6 +189,8 @@ a property of
 structural cooperation,
 
 not structural accumulation.
+
+---
 
 ## 5. Military Analogy
 
@@ -238,6 +248,8 @@ Individual structural assets remain valuable.
 
 Integrated structural closures produce intelligence.
 
+---
+
 ## 6. Software Engineering Analogy
 
 Traditional software engineering exhibits similar behavior.
@@ -264,6 +276,8 @@ Instead of merely transferring software,
 future AI systems transfer
 
 functional structural ecosystems.
+
+---
 
 ## 7. Structural Runtime Closures
 
@@ -331,6 +345,8 @@ Each closure may evolve independently,
 
 yet together they compose larger intelligent systems.
 
+---
+
 ## 8. Multi-Level Capability Composition
 
 Capability closures naturally compose hierarchically.
@@ -364,6 +380,8 @@ Consequently,
 Structural Runtime grows
 
 through closure composition.
+
+---
 
 ## 9. Capability Closure Transfer
 
@@ -402,6 +420,8 @@ rather than
 implementation details.
 
 This dramatically reduces migration cost.
+
+---
 
 ## 10. Collective Structural Intelligence
 
@@ -443,6 +463,8 @@ into
 
 collective structural engineering.
 
+---
+
 ## 11. Strategic Implications
 
 Capability Closure Principle suggests an important shift in AI engineering.
@@ -464,6 +486,8 @@ Engineering priorities therefore become
 The most valuable structural assets become
 
 those capable of independently solving classes of problems.
+
+---
 
 ## 12. Conclusion
 
@@ -503,6 +527,8 @@ the evolving ecosystem of
 
 Structural Capability Closures.
 
+---
+
 ## Key Takeaways
 - Structural Runtime transfer explains **why structures migrate better than implementations**.
 - Structural Capability Closure explains **what actually migrates as intelligence**.
@@ -511,6 +537,8 @@ Structural Capability Closures.
 - Capability closures naturally support hierarchical composition, continuous growth, and long-term reuse.
 - The smallest practical unit of transferable intelligence is often a **functional closure rather than a single structure**.
 - Future AI infrastructure should prioritize **designing, measuring, validating, and transferring Structural Capability Closures** as reusable engineering assets.
+
+---
 
 ## Relation to Previous SFC Papers
 
@@ -521,4 +549,4 @@ This paper naturally extends the theoretical progression established by the prev
 - **SFC-013** establishes the **Transferability** of Structural Runtime across implementations, models, domains, and embodiments.
 - **SFC-014** identifies the **Transfer Unit** itself: not isolated structures, but **Structural Capability Closures** that preserve complete functional intelligence.
 
-Together, these four papers form a layered progression from what intelligence is, to how it collaborates, to why it endures, and finally to what is actually accumulated, transferred, and reused.
+Together, these four papers form a layered progression from **what intelligence is**, to **how it collaborates**, to **why it endures**, and finally to **what is actually accumulated, transferred, and reused**.
