@@ -6,35 +6,35 @@
 
 Similarity alone is often insufficient for intelligent systems.
 
-Many engineering, scientific, educational, and AI problems are not fundamentally questions of similarity, but questions of structural feasibility.
+Many engineering, scientific, educational, and AI problems are not fundamentally questions of similarity, but questions of **structural feasibility**.
 
 Two structures may be highly similar yet impossible to transform into one another under given constraints. Conversely, two structures may appear quite different while remaining connected through a feasible sequence of structural transformations.
 
-This paper proposes Feasibility Metric Distance (FMD) as the third fundamental metric distance within the Structural Feasibility Confidence (SFC) framework.
+This paper proposes **Feasibility Metric Distance (FMD)** as the third fundamental metric distance within the Structural Feasibility Confidence (SFC) framework.
 
-Together with IS Metric Distance and HAS Metric Distance, it forms a unified Metric Distance Framework capable of supporting reusable scoring, feasibility estimation, confidence computation, and explainable structural reasoning across diverse applications.
+Together with **IS Metric Distance** and **HAS Metric Distance**, it forms a unified Metric Distance Framework capable of supporting reusable scoring, feasibility estimation, confidence computation, and explainable structural reasoning across diverse applications.
 
 ## 1. Motivation
 
 Most existing similarity metrics answer questions such as
 
-Is this object similar to another?
+> Is this object similar to another?
 
 or
 
-Does this object contain another?
+> Does this object contain another?
 
 However, real-world intelligent systems frequently ask a fundamentally different question:
 
-Can the current structure evolve into the desired structure?
+> **Can the current structure evolve into the desired structure?**
 
 Examples include
 
-Can this codebase be repaired?
-Can this student learn this concept?
-Can this robot complete this task?
-Can this scientific hypothesis be verified?
-Can an LLM successfully bridge this reasoning gap?
+- Can this codebase be repaired?
+- Can this student learn this concept?
+- Can this robot complete this task?
+- Can this scientific hypothesis be verified?
+- Can an LLM successfully bridge this reasoning gap?
 
 These are not similarity questions.
 
@@ -55,7 +55,7 @@ The SFC framework proposes three complementary metric distances.
 
 Question:
 
-Is this object this object?
+> Is this object this object?
 
 Purpose:
 
@@ -63,16 +63,16 @@ Identity, classification, recognition, matching.
 
 Typical applications include
 
-concept recognition
-classification
-retrieval
-nearest-neighbor search
+- concept recognition
+- classification
+- retrieval
+- nearest-neighbor search
 
 ### Type II — HAS Metric Distance
 
 Question:
 
-Does this structure contain this target?
+> Does this structure contain this target?
 
 Purpose:
 
@@ -80,11 +80,11 @@ Containment and coverage.
 
 Typical applications include
 
-feature coverage
-capability estimation
-semantic inclusion
-partial matching
-hierarchical reasoning
+- feature coverage
+- capability estimation
+- semantic inclusion
+- partial matching
+- hierarchical reasoning
 
 HAS Metric Distance naturally supports asymmetric evaluation.
 
@@ -92,7 +92,7 @@ HAS Metric Distance naturally supports asymmetric evaluation.
 
 Question:
 
-Can the current structure reach the target structure?
+> Can the current structure reach the target structure?
 
 Purpose:
 
@@ -102,11 +102,11 @@ Unlike similarity metrics, Feasibility Metric Distance estimates whether a valid
 
 This introduces the concept of
 
-reachable structures
-feasible bridges
-transformation cost
-confidence thickness
-path robustness
+- reachable structures
+- feasible bridges
+- transformation cost
+- confidence thickness
+- path robustness
 
 which are central to Structural Intelligence.
 
@@ -126,11 +126,11 @@ The original SFC scoring process evaluates every candidate using three complemen
 
 Instead of treating these as application-specific heuristics, they can now be interpreted as three reusable metric distances.
 
-IS Metric Distance
-
-HAS Metric Distance
-
-Feasibility Metric Distance
+    IS Metric Distance
+    
+    HAS Metric Distance
+    
+    Feasibility Metric Distance
 
 Consequently,
 
@@ -148,7 +148,7 @@ Conceptually,
 
 Feasibility Metric Distance measures
 
-the structural effort required to transform one structure into another while preserving necessary constraints.
+> the structural effort required to transform one structure into another while preserving necessary constraints.
 
 Unlike Euclidean or cosine distances,
 
@@ -156,39 +156,35 @@ its objective is not geometric similarity.
 
 Its objective is
 
-transformation feasibility.
+**transformation feasibility**.
 
 A conceptual formulation may be written as
 
-D
-feasible
-	​
-
-=f(StructuralGap,BridgeComplexity,ConstraintViolation,DeltaCost,ConfidenceThickness,PathFragility)
+    D_feasible = f(StructuralGap,BridgeComplexity,ConstraintViolation,DeltaCost,ConfidenceThickness,PathFragility)
 
 where
 
-Structural Gap
+**Structural Gap**
 
 measures missing structures.
 
-Bridge Complexity
+**Bridge Complexity**
 
 measures intermediate transformations.
 
-Constraint Violation
+**Constraint Violation**
 
 measures incompatibilities.
 
-Delta Cost
+**Delta Cost**
 
 measures required modifications.
 
-Confidence Thickness
+**Confidence Thickness**
 
 estimates confidence accumulated along feasible paths.
 
-Path Fragility
+**Path Fragility**
 
 measures robustness against perturbations.
 
@@ -232,13 +228,13 @@ all applications share the same metric framework.
 
 The reusable framework performs
 
-normalization
-distance computation
-confidence aggregation
-threshold evaluation
-feasible-path estimation
-ranking
-explanation generation
+- normalization
+- distance computation
+- confidence aggregation
+- threshold evaluation
+- feasible-path estimation
+- ranking
+- explanation generation
 
 while individual applications only provide their own Delta modules.
 
@@ -248,21 +244,21 @@ Different applications differ primarily in their Delta definitions.
 
 Examples include
 
-Code Repair Delta
-
-Task Graph Delta
-
-Education Delta
-
-Scientific Discovery Delta
-
-Calling Graph Delta
-
-Policy Delta
-
-Medical Diagnosis Delta
-
-Robot Action Delta
+    Code Repair Delta
+    
+    Task Graph Delta
+    
+    Education Delta
+    
+    Scientific Discovery Delta
+    
+    Calling Graph Delta
+    
+    Policy Delta
+    
+    Medical Diagnosis Delta
+    
+    Robot Action Delta
 
 Each application contributes only its domain-specific structural Delta.
 
@@ -278,18 +274,18 @@ Feasibility Metric Distance naturally supports confidence estimation.
 
 A small feasibility distance generally indicates
 
-low transformation cost
-high structural compatibility
-thick confidence tunnel
-multiple feasible paths
+- low transformation cost
+- high structural compatibility
+- thick confidence tunnel
+- multiple feasible paths
 
 Conversely,
 
 large feasibility distance often implies
 
-sparse bridges
-fragile transformation
-higher uncertainty
+- sparse bridges
+- fragile transformation
+- higher uncertainty
 
 Thus,
 
@@ -299,27 +295,27 @@ Feasibility Metric Distance provides the quantitative foundation for Structural 
 
 Feasibility Metric Distance naturally integrates with previous Structural Intelligence components.
 
-Calling Graph
+**Calling Graph**
 
 provides executable structural pathways.
 
-Differential Tree
+**Differential Tree**
 
 provides structural organization and localization.
 
-Function Tunnel
+**Function Tunnel**
 
 provides feasible transformation trajectories.
 
-Gap Engine
+**Gap Engine**
 
 identifies missing structures.
 
-Metric Tree
+**Metric Tree**
 
 supports efficient scoring and retrieval.
 
-Structural Feasibility Confidence
+**Structural Feasibility Confidence**
 
 integrates these components into a unified explainable scoring mechanism.
 
@@ -335,11 +331,11 @@ while only replacing domain-specific Delta modules.
 
 This architecture promotes
 
-modularity
-explainability
-consistency
-scalability
-transferability
+- modularity
+- explainability
+- consistency
+- scalability
+- transferability
 
 across a broad spectrum of Structural Intelligence applications.
 
@@ -349,7 +345,7 @@ Traditional metric distances primarily measure similarity or containment.
 
 Structural Intelligence introduces a third and fundamentally different question:
 
-Can this structure realistically become that structure?
+> **Can this structure realistically become that structure?**
 
 Feasibility Metric Distance provides a quantitative answer to this question.
 
