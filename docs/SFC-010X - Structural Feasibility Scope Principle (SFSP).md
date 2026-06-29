@@ -58,6 +58,12 @@ SFSP formalizes this missing boundary.
 
 ---
 
+#### Fig-210X-Structural-Feasibility-Scope-Principle-SFSP.png
+
+![./figures/Fig-210X-Structural-Feasibility-Scope-Principle-SFSP.png](./figures/Fig-210X-Structural-Feasibility-Scope-Principle-SFSP.png)
+
+---
+
 # 2. Structural Capability Has a Scope
 
 We define Structural IR as the complete structural representation available to an intelligent system, including:
