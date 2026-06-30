@@ -1,6 +1,16 @@
 # START HERE
 ## Structural Feasibility Confidence (SFC)
 
+## Who Should Read This Repository?
+
+|If you are...	|Start from... |
+|---|---|
+|Software Engineer	|SFC-001
+|AI Engineer	|SFC-005
+|LLM Researcher	|SFC-210
+|SI/ASI Researcher	|SFC-210X
+|First-time Visitor	| README → SFC-001
+
 ## A Reader's Guide
 
 Welcome to the Structural Feasibility Confidence (SFC) repository.
@@ -120,7 +130,7 @@ The central transition is:
 - SFC-213
 - SFC-214
 
-#### Note
+> **Note**
 
 > The document numbering jumps from **SFC-013** to **SFC-210** only to avoid conflicts with existing document numbers. These papers are the direct continuation of the repository rather than a separate series.
 

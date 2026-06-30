@@ -1,341 +1,246 @@
 # FIGURE INDEX
+## Structural Feasibility Confidence (SFC)
 
-# Structural Feasibility Confidence (SFC)
+### Figure Guide
 
----
+This repository contains a series of figures illustrating the evolution of Structural Feasibility from engineering intuition to mathematical formulation and finally to the architectural scope of future Structural Intelligence systems.
 
-# Phase I — Understanding the Phenomena
+Rather than serving as isolated illustrations, these figures collectively describe the conceptual progression of the repository.
 
-## Fig-001
+## Figure Organization
 
-**Confirmed Zone / Extension Zone / Speculative Zone**
+The figures are organized into three major stages.
 
-Illustrates three regions of engineering confidence.
+    Stage I
+    Structural Feasibility Confidence
+    
+    ↓
+    
+    Stage II
+    Structural Feasibility Metrics
+    
+    ↓
+    
+    Stage III
+    Structural Feasibility Scope
 
-The figure explains how structural understanding expands from confirmed knowledge toward reasoned extension and finally speculative exploration.
+## Stage I
+### Structural Feasibility Confidence
 
-Related documents:
+These figures introduce the engineering intuition behind structural feasibility.
 
-SFC-001
+#### Fig-001
 
-SFC-002
+**Confirmed Zone • Extension Zone • Speculative Zone**
 
----
+Illustrates how engineering feasibility extends beyond exact precedent matching into progressively more uncertain but still structurally meaningful regions.
 
-## Fig-002
+Related papers
+
+- SFC-001
+- SFC-002
+
+#### Fig-002
 
 **Task Calling Graph vs Action Calling Graph**
 
-**Execution Proof vs Feasibility Proof**
+Illustrates how task-level structures provide feasibility scaffolds beyond action-level execution.
 
-Compares Task Calling Graphs and Action Calling Graphs.
+Related papers
 
-Highlights the distinction between proving objectives and proving executable structural feasibility.
+- SFC-005
 
-Related documents:
-
-SFC-003
-
-SFC-005
-
----
-
-## Fig-003
+#### Fig-003
 
 **Patchwork Feasibility Proof**
 
-**From Local Evidence to Global Commitment**
+Shows how engineering solutions emerge through multiple independent pieces of structural evidence rather than single complete proofs.
 
-Illustrates how multiple independent feasibility evidences accumulate into overall engineering confidence.
+Related papers
 
-Introduces the intuition behind Confidence Thickness.
+- SFC-003
 
-Related documents:
-
-SFC-003
-
-SFC-004
-
----
-
-## Fig-004
+#### Fig-004
 
 **Craftsman Quotation as an External Projection of Confidence Thickness**
 
-Explains why experienced engineers can confidently provide quotations before complete implementation.
+Illustrates how engineering confidence gradually accumulates through experience and repeated structural validation.
 
-Confidence is interpreted as accumulated structural evidence rather than intuition alone.
+Related papers
 
-Related documents:
+- SFC-004
+- SFC-006
 
-SFC-006
+## Stage II
+### Structural Feasibility Metrics
 
----
+These figures formalize feasibility into measurable engineering concepts.
 
-# Phase II — Underlying Mechanism
-
-## Fig-010
+#### Fig-010
 
 **From Similarity Metric to Structural Feasibility Metric**
 
-Illustrates the conceptual shift from similarity-based AI toward feasibility-oriented structural reasoning.
+Introduces the transition from similarity-based evaluation toward structural feasibility evaluation.
 
-Related document:
+Related papers
 
-SFC-010
+- SFC-010
 
----
+#### Fig-011
 
-## Fig-011
+**One Tree • Three Validations**
 
-**One Tree, Three Validations**
+Illustrates multiple complementary validation mechanisms operating on a shared structural representation.
 
-The core algorithm of SFC.
+Related papers
 
-Shows hierarchical feasibility aggregation using:
+- SFC-010b
 
-* Concept Validation
-* Evolution Validation
-* Constraint Validation
-
-Related document:
-
-SFC-010
-
----
-
-# Phase III — Engineering Consequences
-
-## Fig-012
+#### Fig-012
 
 **Autonomous Contracting Between ASI Systems**
 
-Illustrates executable contracts, runtime monitoring, adaptive negotiation, and structural agreements among Brain Units.
+Shows how feasibility metrics naturally support autonomous cooperation between intelligent systems.
 
-Related document:
+Related papers
 
-SFC-011
+- SFC-011
 
----
+#### Fig-013
 
-## Fig-013
+**From Gap Bridging to Structural Feasible Regions**
 
-**From Gap Bridging to Structural Feasible Region**
+Illustrates how isolated feasibility judgments evolve into continuous feasible regions.
 
-Shows structural evolution as progressive entry into feasible regions rather than simple gap elimination.
+Related papers
 
-Related document:
+- SFC-012
 
-SFC-012
+#### Fig-301
 
----
+**Three Fundamental Metric Distances**
 
-## Fig-014
+Summarizes the relationship between similarity distance, structural feasibility distance, and broader engineering metrics.
 
-**Evolution of Human Cooperation**
+Related papers
 
-Illustrates the historical evolution from oral agreements to executable contracts and autonomous structural agreements.
+- SFC-010
+- SFC-010b
+- SFC-013
 
-Related document:
+## Stage III
+### Structural Feasibility Scope
 
-SFC-011
+These figures explore the architectural implications of structural feasibility for Large Language Models, Structural Intelligence, and future ASI systems.
 
----
+> **Note**
 
-## Fig-015
+> Figure numbers beginning with 210 follow the corresponding document numbering. They belong to the third stage of this repository and are **not a separate figure series**.
 
-**The Evolution of Cooperation**
-
-From Similarity
-
-↓
-
-Feasibility
-
-↓
-
-Negotiation
-
-↓
-
-Contract
-
-↓
-
-Execution
-
-↓
-
-Adaptive Contract
-
-↓
-
-Autonomous Contracting
-
-↓
-
-Collective Structural Intelligence
-
-Provides the conceptual roadmap of future structural cooperation.
-
-Related documents:
-
-SFC-011
-
-SFC-013
-
----
-
-## Fig-016
-
-**Overall SFC Roadmap**
-
-Summarizes the entire repository.
-
-Phase I
-
-Understanding
-
-↓
-
-Phase II
-
-Mechanism
-
-↓
-
-Phase III
-
-Engineering Consequences
-
-↓
-
-Future Structural Feasibility Metrics
-
-This figure serves as the overall conceptual map of the repository.
-
-# Phase III — Advanced Scopes and Functions
-
-## Fig-210
+#### Fig-210
 
 **LLMs as Implicit Structural Feasibility Engines**
-    
-    docs/figures/Fig-210-LLMs-as-Implicit-Structural-Feasibility-Engines.png
 
-## Fig-210X
+Illustrates how many behaviors of modern LLMs can be interpreted as implicit structural feasibility evaluation.
+
+Related papers
+
+- SFC-210
+
+#### Fig-210X
 
 **Structural Feasibility Scope Principle (SFSP)**
 
-    docs/figures/Fig-210X-Structural-Feasibility-Scope-Principle-SFSP.png
-    
-## Fig-211
+Illustrates the architectural boundary between implicit structural feasibility and explicit structural representations.
+
+Related papers
+
+- SFC-210X
+
+#### Fig-211
 
 **LLM and SI/ASI Component and Application Coverage Comparative Analysis**
 
-    docs/figures/Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png
+Compares the structural coverage of current LLM architectures with future Structural Intelligence systems.
 
-## Fig-212
+Related papers
 
-**LLMs as Structural Collaborative Intelligence**
+- SFC-210
+- SFC-210X
 
-    docs/figures/Fig-212-Structural-Collaborative-Intelligence.png
+#### Fig-212
 
-## Fig-213
+**Structural Collaborative Intelligence**
+
+Illustrates collaborative structural reasoning among multiple intelligent systems.
+
+Related papers
+
+- SFC-212
+
+#### Fig-213
 
 **Structural Runtime Transfer Principle**
 
-    docs/figures/Fig-213-Structural-Runtime-Transfer-Principle.png
+Illustrates how structural runtime capabilities may become transferable across future intelligent systems.
 
----
+Related papers
 
-# Recommended Figure Reading Order
+- SFC-213
 
-Readers unfamiliar with the project may follow this sequence.
+## Repository Roadmap
+#### Fig-016
 
-Fig-001
+**SFC DOI Overall Roadmap**
 
-↓
+Provides a high-level overview of the entire repository, connecting the three major stages into a single conceptual framework.
 
-Fig-002
+This figure is recommended as the starting point for readers who wish to understand the overall architecture of the repository before reading individual papers.
 
-↓
+Related papers
 
-Fig-003
+- Repository Overview
+- README
 
-↓
+## Suggested Reading Together with Figures
 
-Fig-004
+|Reading Stage	|Recommended Figures |
+|---|---|
+|Stage I	|Fig-001 → Fig-002 → Fig-003 → Fig-004
+|Stage II	|Fig-010 → Fig-011 → Fig-012 → Fig-013 → Fig-301
+|Stage III	|Fig-210 → Fig-210X → Fig-211 → Fig-212 → Fig-213
+|Overall Overview	|Fig-016
 
-↓
+## Recommended Viewing Order
 
-Fig-010
+For first-time readers, the following viewing sequence is recommended:
 
-↓
+    Fig-016
+    
+    ↓
+    
+    Fig-001
+    
+    ↓
+    
+    Fig-013
+    
+    ↓
+    
+    Fig-210
+    
+    ↓
+    
+    Fig-210X
+    
+    ↓
+    
+    Fig-211
+    
+    ↓
+    
+    Fig-213
 
-Fig-011
+This sequence follows the conceptual evolution of the repository:
 
-↓
-
-Fig-013
-
-↓
-
-Fig-012
-
-↓
-
-Fig-014
-
-↓
-
-Fig-015
-
-↓
-
-Fig-016
-
-This order follows the natural progression from engineering intuition to algorithmic mechanism and finally to future AI cooperation.
-
----
-
-Then, Readers can read the figures on advanced Scopes and functions:
-
-Fig-210
-
-↓
-
-Fig-210X
-
-↓
-
-Fig-211
-
-↓
-
-Fig-212
-
-↓
-
-Fig-213
-
----
-
-# Figure Philosophy
-
-The figures in this repository intentionally emphasize structural intuition rather than mathematical formalism.
-
-Together they describe one continuous transition:
-
-From
-
-**Similarity**
-
-to
-
-**Structural Feasibility**
-
-to
-
-**Autonomous Structural Cooperation**.
-
-This progression represents the central message of the Structural Feasibility Confidence (SFC) repository.
+> **Engineering Confidence → Structural Metrics → LLM Interpretation → Structural Scope → Future Structural Intelligence**

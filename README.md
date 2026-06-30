@@ -107,7 +107,7 @@ Topics include:
 
 These papers form the theoretical bridge between today's LLMs and future Structural Intelligence architectures.
 
-### Note
+#### Note:
 
 The document numbers **SFC-210 through SFC-214** belong to this third stage. They are not a **separate series**; the numbering was intentionally shifted into the 2xx range solely to avoid conflicts with the existing SFC-010 through SFC-013 document numbers.
 
