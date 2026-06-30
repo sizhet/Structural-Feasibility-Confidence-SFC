@@ -235,6 +235,7 @@ This figure serves as the overall conceptual map of the repository.
     docs/figures/Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png
 
 ## Fig-212
+
 **LLMs as Structural Collaborative Intelligence**
 
     docs/figures/Fig-212-Structural-Collaborative-Intelligence.png
