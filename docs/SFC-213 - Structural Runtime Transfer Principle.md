@@ -59,7 +59,7 @@ structure.
 
 #### Fig-213-Structural-Runtime-Transfer-Principle.png
 
-![./figures/Fig-213-Structural-Runtime-Transfer-Principle.png](figures/Fig-213-Structural-Runtime-Transfer-Principle.png)
+![./figures/Fig-213-Structural-Runtime-Transfer-Principle.png](./figures/Fig-213-Structural-Runtime-Transfer-Principle.png)
 
 ---
 

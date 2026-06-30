@@ -11,6 +11,14 @@ More importantly, it argues that many capabilities already exhibited by Large La
 
 ## Repository Overview
 
+---
+
+#### Fig-016-SFC-DOI-Overall-Roadmap.png
+
+![./docs/figures/Fig-016-SFC-DOI-Overall-Roadmap.png](./docs/figures/Fig-016-SFC-DOI-Overall-Roadmap.png)
+
+---
+
 The repository develops the theory through three progressively deeper stages.
 
     Stage I
@@ -29,6 +37,14 @@ The repository develops the theory through three progressively deeper stages.
 The progression moves from engineering practice, to mathematical formulation, and finally to architectural principles for future AI systems.
 
 ## Stage I — Structural Feasibility Confidence
+
+---
+
+#### Fig-001-Confirmed-Zone-Extension-Zone-Speculative-Zone.png
+
+![./docs/figures/Fig-001-Confirmed-Zone-Extension-Zone-Speculative-Zone.png](./docs/figures/Fig-001-Confirmed-Zone-Extension-Zone-Speculative-Zone.png)
+
+---
 
 This section explains **how engineers make feasible decisions without exact precedents**.
 
@@ -59,6 +75,14 @@ Core documents include:
 
 ## Stage II — Structural Feasibility Metrics
 
+---
+
+#### Fig-013-From-Gap-Bridging-to-Feasible-Region.png
+
+![./docs/figures/Fig-013-From-Gap-Bridging-to-Feasible-Region.png](./docs/figures/Fig-013-From-Gap-Bridging-to-Feasible-Region.png)
+
+---
+
 The second stage extends feasibility from a qualitative engineering judgment into a measurable structural framework.
 
 Instead of asking
@@ -88,6 +112,14 @@ Core documents include:
 - SFC-013
 
 ## Stage III — Structural Feasibility Scope
+
+---
+
+#### Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png
+
+![Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png](./docs/figures/Fig-211-LLM-and-SIandASI-Component-and-Application-Coverage-Comparative-Analysis.png)
+
+---
 
 The final stage investigates the **architectural boundaries of structural intelligence**.
 
@@ -120,6 +152,14 @@ Core documents include:
 - SFC-214
 
 ## Central Contributions
+
+---
+
+#### Fig-213-Structural-Runtime-Transfer-Principle.png
+
+![./docs/figures/Fig-213-Structural-Runtime-Transfer-Principle.png](./docs/figures/Fig-213-Structural-Runtime-Transfer-Principle.png)
+
+---
 
 This repository makes several connected contributions.
 
