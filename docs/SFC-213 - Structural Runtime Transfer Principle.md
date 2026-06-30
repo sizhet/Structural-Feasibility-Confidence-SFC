@@ -433,7 +433,7 @@ persistent structural knowledge.
 
 Structural Collaborative Intelligence (SCI),
 
-introduced in SFC-012,
+introduced in SFC-212,
 
 depends fundamentally upon Structural Runtime Transfer.
 

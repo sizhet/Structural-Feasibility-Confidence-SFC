@@ -498,4 +498,4 @@ but a candidate paradigm for the next generation of human-centered intelligent s
 
 ## Relation to Fig-302
 
-**Figure SFC-012** ("Structural Collaborative Intelligence: The Human–LLM–Structural Runtime Paradigm") provides the visual architecture corresponding to this paper. It illustrates the three-participant collaboration model, the transition from linear Question–Answer workflows to iterative structural evolution, the complementary roles of Human, LLM, and Structural Runtime, and the accumulation of reusable structural assets that enable explainable, transferable, and continuously growing intelligence.
+**Figure SFC-212** ("Structural Collaborative Intelligence: The Human–LLM–Structural Runtime Paradigm") provides the visual architecture corresponding to this paper. It illustrates the three-participant collaboration model, the transition from linear Question–Answer workflows to iterative structural evolution, the complementary roles of Human, LLM, and Structural Runtime, and the accumulation of reusable structural assets that enable explainable, transferable, and continuously growing intelligence.
