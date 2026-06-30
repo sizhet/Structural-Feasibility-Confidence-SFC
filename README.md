@@ -1,251 +1,243 @@
 # Structural Feasibility Confidence (SFC)
+## From Engineering Confidence to Structural Feasibility Metrics and the Structural Boundaries of LLMs
 
-## From Confidence Thickness to Structural Feasibility Metrics
+Structural Feasibility Confidence (SFC) proposes that engineering intelligence is fundamentally governed not by exact precedent matching, but by **structural feasibility evaluation**.
 
----
+Human engineers routinely solve problems that have never appeared before. They succeed by judging whether a new structure is feasible, assembling partial evidence, estimating confidence, and continuously bridging gaps until a workable solution emerges.
 
-## Overview
+This repository formalizes that process into a unified framework.
 
-Structural Feasibility Confidence (SFC) investigates one fundamental question:
+More importantly, it argues that many capabilities already exhibited by Large Language Models (LLMs) can be understood as implicit structural feasibility evaluation, providing a new engineering interpretation of modern LLMs while simultaneously clarifying their current structural limitations.
 
-> **How can an intelligent system determine whether a target structure is actually feasible before it is completely constructed?**
+## Repository Overview
 
-Traditional AI typically estimates similarity.
+The repository develops the theory through three progressively deeper stages.
 
-SFC instead estimates **structural feasibility**.
+    Stage I
+    Structural Feasibility Confidence
+    
+    ↓
+    
+    Stage II
+    Structural Feasibility Metrics
+    
+    ↓
+    
+    Stage III
+    Structural Feasibility Scope
 
-Rather than asking
+The progression moves from engineering practice, to mathematical formulation, and finally to architectural principles for future AI systems.
 
-> *How similar are these two structures?*
+## Stage I — Structural Feasibility Confidence
 
-SFC asks
+This section explains **how engineers make feasible decisions without exact precedents**.
 
-> *Can this structure evolve into the desired target while preserving all essential constraints?*
+Topics include:
 
-This seemingly simple shift changes confidence estimation into a new class of structural metric.
-
-Confidence is no longer interpreted as probability alone.
-
-Instead, confidence becomes the accumulated structural evidence supporting feasible evolution.
-
----
-
-## Why This Repository
-
-Many engineering activities share the same hidden reasoning process.
-
-Software design.
-
-Mechanical design.
-
-Scientific discovery.
-
-Puzzle solving.
-
-Architecture.
-
-Human collaboration.
-
-Contract generation.
-
-All require evaluating whether multiple incomplete structural pieces can eventually converge into one feasible solution.
-
-Human experts perform this reasoning naturally.
-
-SFC attempts to make this hidden reasoning process explicit.
-
----
-
-# Repository Structure
-
-The repository is intentionally organized into two phases.
-
----
-
-#### Fig-016-SFC-DOI-Overall-Roadmap.png
-
-![./docs/figures/Fig-016-SFC-DOI-Overall-Roadmap.png](./docs/figures/Fig-016-SFC-DOI-Overall-Roadmap.png)
-
----
-
-## Phase I — Phenomena
-
-The first nine articles introduce observable engineering phenomena.
-
-They explain why confidence thickness exists, why puzzle reasoning works, why LLMs often succeed without explicit symbolic search, and how feasibility gradually accumulates during structural evolution.
-
-These articles establish intuition before introducing the underlying algorithm.
-
-Included topics:
-
-- Structural Feasibility Confidence
-- Confidence Thickness
-- Puzzle Reasoning
-- Function Tunnel Confidence
-- Calling Graph Confidence
-- LLM Implicit Structural Scoring
+- Why exact precedent is insufficient
+- Structural feasibility confidence
+- Patchwork feasibility proof
+- Function tunnel confidence thickness
+- Task Calling Graphs as feasibility scaffolds
+- Engineering commitment
 - Gap Bridging
-- Engineering Commitment
-- AI Agent Implications
+- LLM scoring as implicit confidence estimation
 
----
+Rather than viewing engineering as retrieving identical examples, SFC models engineering as **incrementally constructing structural feasibility**.
 
-## Phase II — Mechanism
+Core documents include:
 
-The final article explains why all previous observations work.
+- SFC-001
+- SFC-002
+- SFC-003
+- SFC-004
+- SFC-005
+- SFC-006
+- SFC-007
+- SFC-008
+- SFC-009
 
-**SFC-010**
+## Stage II — Structural Feasibility Metrics
 
-> Structural Feasibility Metric:
-> The Underlying Algorithm Behind Confidence Thickness
+The second stage extends feasibility from a qualitative engineering judgment into a measurable structural framework.
 
-Although placed at the end of the repository, this article serves as the theoretical foundation explaining the entire SFC framework.
+Instead of asking
 
-It introduces:
+> Is this possible?
 
-- Feasibility Differential Tree
-- Concept Coverage Validation
-- Evolution Logic Validation
-- Immutable Constraint Validation
-- Hierarchical Feasibility Aggregation
-- Structural Evidence Accumulation
+the framework asks
 
-Together these components form the underlying Structural Feasibility Metric responsible for the phenomena discussed throughout Phase I.
+> **How structurally feasible is it?**
 
----
+This section introduces:
 
-# Core Ideas
+- Structural Feasibility Metrics
+- Feasibility Distance
+- Autonomous Contracting
+- Feasible Regions
+- Structural Metrics beyond similarity
 
-The repository proposes four central ideas.
+This represents a shift from traditional similarity-based evaluation toward **feasibility-oriented optimization**.
 
-## 1. Confidence is Structural
+Core documents include:
 
-Confidence is not a probability attached to a prediction.
+- SFC-010
+- SFC-010b
+- SFC-011
+- SFC-012
+- SFC-013
 
-Confidence is accumulated structural evidence.
+## Stage III — Structural Feasibility Scope
 
----
+The final stage investigates the **architectural boundaries of structural intelligence**.
 
-#### Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png
+Rather than asking whether a particular engineering solution is feasible, these papers ask:
 
-![./docs/figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png](./docs/figures/Fig-010-From-Similarity-Metric-to-Structural-Feasibility-Metric.png)
+> **What kinds of structural intelligence are possible under different internal representations?**
 
----
+This section provides an engineering interpretation of LLMs and explores what additional structural components are required for future SI and ASI systems.
 
-## 2. Similarity is not Feasibility
+Topics include:
 
-Two structures may look similar but be impossible to transform into one another.
+- LLMs as Implicit Structural Feasibility Engines
+- Structural Feasibility Scope Principle (SFSP)
+- Structural Collaborative Intelligence
+- Structural Runtime Transfer Principle
+- Structural Capability Closure Principle
 
-Conversely, two apparently different structures may have a highly feasible transformation path.
+These papers form the theoretical bridge between today's LLMs and future Structural Intelligence architectures.
 
-Feasibility therefore becomes a richer optimization objective than similarity.
+### Note
 
----
+The document numbers **SFC-210 through SFC-214** belong to this third stage. They are not a **separate series**; the numbering was intentionally shifted into the 2xx range solely to avoid conflicts with the existing SFC-010 through SFC-013 document numbers.
 
-## 3. Feasibility Can Be Explicitly Computed
+Core documents include:
 
----
+- SFC-210
+- SFC-210X
+- SFC-212
+- SFC-213
+- SFC-214
 
-#### Fig-011-One-Tree-Three-Validations.png
+## Central Contributions
 
-![./docs/figures/Fig-011-One-Tree-Three-Validations.png](./docs/figures/Fig-011-One-Tree-Three-Validations.png)
+This repository makes several connected contributions.
 
----
+### 1. Structural Feasibility as an Engineering Principle
 
-Instead of relying entirely on implicit neural representations,
+Engineering is modeled as the continuous evaluation and construction of structural feasibility rather than exact precedent retrieval.
 
-SFC organizes structural evidence into differential trees and validates feasibility using:
+### 2. Structural Feasibility Metrics
 
-- Concept Coverage
-- Evolution Logic
-- Immutable Constraints
+Similarity is generalized into structural feasibility metrics capable of evaluating partially completed structures, evolving designs, and engineering trajectories.
 
-This produces an explicit structural feasibility score.
+### 3. LLMs as Implicit Structural Feasibility Engines
 
----
+The repository proposes that many modern LLM behaviors—including scoring, ranking, preference optimization, and next-token prediction—can be understood as **implicit structural feasibility evaluation** rather than explicit symbolic reasoning.
 
-## 4. Confidence Grows Hierarchically
+This interpretation provides an engineering explanation for many practical strengths of LLMs.
 
----
+### 4. Structural Feasibility Scope Principle (SFSP)
 
-#### Fig-012-Autonomous-Contracting-Between-ASI-Systems.png
+The repository introduces the **Structural Feasibility Scope Principle**, which distinguishes problems that can be solved through implicit structural feasibility evaluation from those requiring explicit structural representations such as runtime state, task graphs, differential trees, structural memory, or persistent internal representations.
 
-![./docs/figures/Fig-012-Autonomous-Contracting-Between-ASI-Systems.png](./docs/figures/Fig-012-Autonomous-Contracting-Between-ASI-Systems.png)
+This principle offers an engineering framework for understanding both the strengths and limitations of current LLM architectures.
 
----
+### 5. Toward Structural Intelligence
 
-Local feasibility evidence accumulates upward through the structural tree.
+The repository argues that future Structural Intelligence (SI) and Artificial Super Intelligence (ASI) systems will require explicit structural runtime components extending beyond today's implicit feasibility mechanisms.
 
-The root confidence therefore reflects the thickness of supporting structural evidence rather than isolated statistical estimation.
+## Relationship to Other Structural Intelligence Repositories
 
----
+This repository forms part of the broader Structural Intelligence (SI) research program.
 
-# Relation to Existing Structural Intelligence Projects
+Within that framework:
 
-SFC naturally connects multiple previously proposed repositories.
+|Repository	|Primary Focus |
+|---|---|
+|Structural Cognitive Emergence (SCE)	|How structural cognition emerges
+|Structural Cognitive Runtime (SCR)	|How structural cognition operates continuously
+|Structural Feasibility Confidence (SFC)	|How structural feasibility is evaluated and constructed
+|Function Tunnel Intelligence (FTI)	|How feasible evolution is preserved
+|Task-Action Dual Calling Graphs	|Task-level structural organization
+|Universal Semantic Infrastructure (USI)	|Shared semantic infrastructure
+|Universal Task Language (UTL)	|Shared task representation
 
-| Repository | Relation |
-|------------|----------|
-| USI / UTN | Provides explicit semantic structures used by Concept Coverage Validation |
-| Calling Graph | Represents structural evolution logic |
-| Function Tunnel Intelligence | Uses feasibility confidence for tunnel evaluation |
-| Structural Cognitive Runtime | Runtime execution of structural feasibility reasoning |
-| Structural Cognitive Emergence | Explains why feasibility reasoning naturally emerges |
-| Gap Bridging | Reduces feasibility distance through structural completion |
+SFC serves as the missing engineering layer connecting structural cognition, runtime reasoning, optimization, and next-generation AI architectures.
 
-SFC therefore acts as an algorithmic bridge connecting semantic structures, structural evolution, runtime reasoning, and engineering feasibility evaluation.
+## Intended Audience
 
----
+This repository is intended for researchers and practitioners interested in:
 
-# Long-Term Vision
+- Engineering reasoning
+- Structural Intelligence
+- Large Language Models
+- AI Agents
+- Runtime architectures
+- Autonomous engineering
+- AI system design
+- Human-AI collaborative engineering
 
-The significance of SFC extends beyond puzzle reasoning.
-
-Its underlying Structural Feasibility Metric may support:
-
-- Engineering design verification
-- AI planning
-- Scientific hypothesis evaluation
-- Function Tunnel Intelligence
-- Gap Bridging
-- Human-AI collaborative reasoning
-- Autonomous Contracting among future AI and ASI systems
-
-Rather than treating contracts as static legal documents,
-
-future intelligent systems may generate agreements as machine-verifiable structural feasibility proofs.
-
----
-
-# Reading Recommendation
+## Reading Guide
 
 Recommended reading order:
 
-Phase I
+### Part I
 
 SFC-001 → SFC-009
 
-↓
+Understanding engineering feasibility.
 
-Phase II
+### Part II
 
-**SFC-010**
+SFC-010 → SFC-013
 
-↓
+Understanding feasibility metrics and optimization.
 
-Future research
+### Part III
 
-This order allows readers to first develop structural intuition before studying the underlying feasibility algorithm.
+SFC-210 → SFC-214
+
+Understanding the structural scope and future evolution of LLMs and Structural Intelligence.
+
+## Why This Repository Matters
+
+The rapid success of Large Language Models has demonstrated that remarkably strong intelligence can emerge without explicitly programmed symbolic reasoning, handcrafted rules, or manually constructed world models.
+
+However, one fundamental question remains largely unanswered:
+
+> **What kind of intelligence are LLMs actually implementing?**
+
+This repository proposes a structural engineering interpretation rather than a purely statistical or cognitive one.
+
+Instead of viewing LLMs primarily as language prediction systems, we argue that many of their most impressive engineering capabilities can be understood as **implicit structural feasibility evaluation**. During inference, LLMs continuously estimate whether partial structures are coherent, compatible, and extendable, allowing them to synthesize solutions that have never existed as exact precedents.
+
+This perspective provides a unified explanation for phenomena including ranking, scoring, next-token prediction, preference optimization, patchwork reasoning, engineering intuition, and many forms of practical problem solving.
 
 ---
 
-## Conclusion
+The repository then asks a second, even more fundamental question:
 
-Structural Feasibility Confidence is ultimately not a confidence estimation framework.
+> **Where does the structural feasibility capability of current LLMs begin to reach its architectural boundary?**
 
-It is an explicit Structural Feasibility Metric for evaluating whether structural evolution is possible.
+The **Structural Feasibility Scope Principle (SFSP)** proposes that this boundary is determined not by model size alone, but by the availability of appropriate internal structural representations (IR).
 
-Confidence is simply the observable manifestation of accumulated structural feasibility.
+Problems whose structural constraints can be evaluated implicitly are often well suited to today's LLM architectures. In contrast, problems requiring explicit runtime state, persistent structural memory, task graphs, differential structures, long-horizon structural evolution, or continuously maintained internal representations increasingly demand additional architectural components beyond implicit language modeling.
+
+Rather than viewing this as a limitation of LLMs, SFSP provides a constructive engineering framework for understanding **which problems naturally match current architectures and which motivate the evolution toward future Structural Intelligence (SI) and Artificial Super Intelligence (ASI) systems**.
+
+---
+
+Taken together, **SFC-210** (LLMs as Implicit Structural Feasibility Engines) and **SFC-210X**(Structural Feasibility Scope Principle) establish a unified engineering interpretation of both the **strengths** and the **structural boundaries** of modern LLMs.
+
+Instead of framing the discussion as LLMs versus future architectures, this repository views them as successive stages along the same structural engineering continuum:
+
+> **Implicit Structural Feasibility → Explicit Structural Intelligence → General Structural Runtime Intelligence**
+
+Under this perspective, today's LLMs are not regarded as an endpoint, but as the first large-scale engineering realization of structural feasibility computation, providing a practical foundation for the next generation of SI and ASI architectures.
+
+> **This repository proposes that Structural Feasibility, rather than similarity, prediction, or symbolic manipulation alone, may serve as the missing engineering principle that connects modern LLMs with the next generation of Structural Intelligence architectures.**
+
 
 ---
 
