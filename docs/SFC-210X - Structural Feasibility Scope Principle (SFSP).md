@@ -1,4 +1,4 @@
-# SFC-010X — Structural Feasibility Scope Principle (SFSP)
+# SFC-210X — Structural Feasibility Scope Principle (SFSP)
 
 ## Why LLM Advantages Exist Only Inside Existing Structural IR
 

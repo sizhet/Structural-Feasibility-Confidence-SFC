@@ -1,4 +1,4 @@
-# SFC-013 — Structural Runtime Transfer Principle
+# SFC-213 — Structural Runtime Transfer Principle
 ## Why Structures Transfer Better Than Implementations
 
 ## Abstract

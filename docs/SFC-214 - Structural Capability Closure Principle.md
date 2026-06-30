@@ -1,4 +1,4 @@
-# SFC-014 — Structural Capability Closure Principle
+# SFC-114 — Structural Capability Closure Principle
 ## Why Intelligence Transfers as Functional Closures Rather Than Individual Structures
 
 ## Abstract
@@ -544,9 +544,9 @@ Structural Capability Closures.
 
 This paper naturally extends the theoretical progression established by the previous three SFC papers:
 
-- **SFC-010** defines the **Essence** of LLMs as implicit structural feasibility engines.
-- **SFC-012** defines the **Paradigm** of Human–LLM–Structural Runtime collaboration.
-- **SFC-013** establishes the **Transferability** of Structural Runtime across implementations, models, domains, and embodiments.
-- **SFC-014** identifies the **Transfer Unit** itself: not isolated structures, but **Structural Capability Closures** that preserve complete functional intelligence.
+- **SFC-210** defines the **Essence** of LLMs as implicit structural feasibility engines.
+- **SFC-212** defines the **Paradigm** of Human–LLM–Structural Runtime collaboration.
+- **SFC-213** establishes the **Transferability** of Structural Runtime across implementations, models, domains, and embodiments.
+- **SFC-214** identifies the **Transfer Unit** itself: not isolated structures, but **Structural Capability Closures** that preserve complete functional intelligence.
 
 Together, these four papers form a layered progression from **what intelligence is**, to **how it collaborates**, to **why it endures**, and finally to **what is actually accumulated, transferred, and reused**.

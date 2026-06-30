@@ -1,4 +1,4 @@
-# SFC-012 — Structural Collaborative Intelligence
+# SFC-212 — Structural Collaborative Intelligence
 ## The Human–LLM–Structural Runtime Paradigm
 
 ## Abstract
@@ -123,7 +123,7 @@ LLMs contribute
 - drafting,
 - latent feasibility estimation.
 
-As argued in SFC-010,
+As argued in SFC-210,
 
 LLMs behave as
 

@@ -1,4 +1,4 @@
-# SFC-010 — LLMs as Implicit Structural Feasibility Engines
+# SFC-210 — LLMs as Implicit Structural Feasibility Engines
 ## From Metric Scoring to Function Tunnel Compression and SI/ASI Coupling
 
 ## Abstract

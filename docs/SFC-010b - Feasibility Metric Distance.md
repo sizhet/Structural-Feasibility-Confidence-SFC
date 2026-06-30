@@ -1,4 +1,4 @@
-# SFC-020b — Feasibility Metric Distance: The Third Fundamental Metric Distance for Structural Intelligence
+# SFC-010b — Feasibility Metric Distance: The Third Fundamental Metric Distance for Structural Intelligence
 
 ## From Similarity to Structural Feasibility
 
