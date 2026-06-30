@@ -1,33 +1,42 @@
 {
-  "title": "Structural Feasibility Confidence (SFC): From Confidence Thickness to Structural Feasibility Metrics",
-  "upload_type": "publication",
-  "publication_type": "report",
-  "description": "<p><b>Structural Feasibility Confidence (SFC)</b> investigates one of the most fundamental questions in engineering and future Artificial Intelligence:</p><p><b>How can an intelligent system determine whether a target structure is actually feasible before the complete solution has been constructed?</b></p><p>Unlike conventional AI systems that primarily estimate similarity, SFC introduces the concept of <b>Structural Feasibility Confidence</b>, where confidence is interpreted as accumulated structural evidence supporting feasible structural evolution rather than isolated probabilistic estimation.</p><p>The repository develops the theory through three progressive stages: (1) observable engineering phenomena such as Confidence Thickness, Puzzle Reasoning, and Gap Bridging; (2) the underlying Structural Feasibility Metric based on hierarchical feasibility aggregation using differential trees, concept coverage validation, evolution logic validation, and immutable constraint validation; and (3) engineering implications including Autonomous Contracting, Structural Feasible Regions, and future Structural Feasibility Metrics.</p><p>SFC naturally connects Structural Intelligence, Function Tunnel Intelligence, Universal Typing and Naming, Calling Graphs, Structural Cognitive Runtime, and Gap Bridging into a unified feasibility-oriented reasoning framework.</p><p>The repository further argues that many engineering, scientific, and collaborative reasoning problems are fundamentally feasibility problems rather than similarity problems, providing one possible computational foundation for future Autonomous Structural Intelligence (ASI), Brain Unit collaboration, executable contracts, and eventually Computable Cooperation.</p>",
+  "title": "Structural Feasibility Confidence (SFC): From Engineering Confidence to Structural Feasibility Metrics and the Structural Boundaries of LLMs",
   "creators": [
     {
       "name": "Tan, Sizhe",
       "affiliation": "Independent Researcher"
     }
   ],
+  "description": "Structural Feasibility Confidence (SFC) proposes structural feasibility as a foundational engineering principle connecting human engineering confidence, feasibility metrics, Large Language Model behavior, and future Structural Intelligence architectures. The repository develops SFC through three stages: Structural Feasibility Confidence, Structural Feasibility Metrics, and Structural Feasibility Scope. It argues that many capabilities of modern LLMs can be interpreted as implicit structural feasibility evaluation, while the Structural Feasibility Scope Principle (SFSP) clarifies the architectural boundary between implicit feasibility computation and systems requiring explicit structural representations, runtime state, structural memory, task graphs, differential structures, and persistent internal representations.",
   "keywords": [
-    "Structural Intelligence",
-    "Structural Feasibility",
     "Structural Feasibility Confidence",
-    "Structural Feasibility Metrics",
-    "Confidence Thickness",
-    "Puzzle Reasoning",
-    "Gap Bridging",
-    "Calling Graph",
-    "Function Tunnel Intelligence",
-    "Structural Cognitive Runtime",
-    "Universal Typing and Naming",
-    "Engineering Intelligence",
-    "Autonomous Contracting",
+    "Structural Feasibility",
+    "Structural Intelligence",
+    "Large Language Models",
+    "LLM",
     "Artificial Super Intelligence",
-    "Brain Unit AI"
+    "ASI",
+    "Feasibility Metrics",
+    "Structural Feasibility Scope Principle",
+    "SFSP",
+    "Implicit Structural Feasibility",
+    "Structural Runtime",
+    "Engineering Intelligence",
+    "AI Agents",
+    "Function Tunnel",
+    "Gap Bridging",
+    "Structural Capability Closure"
   ],
   "license": "Apache-2.0",
+  "upload_type": "software",
+  "publication_date": "2026-06-30",
   "access_right": "open",
-  "language": "eng",
-  "version": "1.0.0"
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/sizhet/Structural-Feasibility-Confidence-SFC",
+      "scheme": "url"
+    }
+  ],
+  "communities": [],
+  "notes": "This repository is part of the Structural Intelligence research series by Sizhe Tan. It introduces Structural Feasibility Confidence as a unifying engineering framework and highlights SFC-210 and SFC-210X as core contributions for interpreting LLMs as implicit structural feasibility engines and for defining the structural feasibility scope boundary of current and future AI architectures."
 }
