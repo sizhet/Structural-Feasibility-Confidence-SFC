@@ -286,6 +286,12 @@ Under this perspective, today's LLMs are not regarded as an endpoint, but as the
 
 > **This repository proposes that Structural Feasibility, rather than similarity, prediction, or symbolic manipulation alone, may serve as the missing engineering principle that connects modern LLMs with the next generation of Structural Intelligence architectures.**
 
+Whether Structural Feasibility ultimately proves to be a foundational principle remains an open scientific question.
+
+Nevertheless, we believe that exploring AI through an additional structural engineering coordinate system may broaden both our theoretical understanding and our practical ability to design future intelligent systems.
+
+We therefore welcome empirical validation, critical discussion, alternative interpretations, and future improvements from the broader research community.
+
 ---
 
 ## Author
