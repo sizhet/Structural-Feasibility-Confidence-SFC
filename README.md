@@ -153,14 +153,6 @@ Core documents include:
 
 ## Central Contributions
 
----
-
-#### Fig-213-Structural-Runtime-Transfer-Principle.png
-
-![./docs/figures/Fig-213-Structural-Runtime-Transfer-Principle.png](./docs/figures/Fig-213-Structural-Runtime-Transfer-Principle.png)
-
----
-
 This repository makes several connected contributions.
 
 ### 1. Structural Feasibility as an Engineering Principle
@@ -182,6 +174,14 @@ This interpretation provides an engineering explanation for many practical stren
 The repository introduces the **Structural Feasibility Scope Principle**, which distinguishes problems that can be solved through implicit structural feasibility evaluation from those requiring explicit structural representations such as runtime state, task graphs, differential trees, structural memory, or persistent internal representations.
 
 This principle offers an engineering framework for understanding both the strengths and limitations of current LLM architectures.
+
+---
+
+#### Fig-213-Structural-Runtime-Transfer-Principle.png
+
+![./docs/figures/Fig-213-Structural-Runtime-Transfer-Principle.png](./docs/figures/Fig-213-Structural-Runtime-Transfer-Principle.png)
+
+---
 
 ### 5. Toward Structural Intelligence
 
