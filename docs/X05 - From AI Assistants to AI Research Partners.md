@@ -14,6 +14,12 @@ Such systems would not replace human expertise. Instead, they would transform me
 
 ---
 
+#### Fig-214-From-AI-Assistants-to-AI-Research-Partners.png
+
+![./figures/Fig-214-From-AI-Assistants-to-AI-Research-Partners.png](./figures/Fig-214-From-AI-Assistants-to-AI-Research-Partners.png)
+
+---
+
 # The Current Situation
 
 Today, most AI systems participate in technical work only indirectly.
