@@ -1,5 +1,5 @@
 # SFC-215 - Independent Structural Convergence
-## Why Structural Duality Strengthens the Engineering Interpretation of Large Language Models
+## Why Structural Duality May Strengthen the Engineering Interpretation of LLMs
 
 ## Abstract
 
