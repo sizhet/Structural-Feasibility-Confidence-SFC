@@ -1,6 +1,4 @@
-# SFC-013
-
-# Structural Feasibility Metrics Beyond Similarity
+# SFC-013 - Structural Feasibility Metrics Beyond Similarity
 
 ---
 

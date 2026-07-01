@@ -1,6 +1,4 @@
-# SFC-012
-
-# From Gap Bridging to Structural Feasible Regions
+# SFC-012 - From Gap Bridging to Structural Feasible Regions
 
 ---
 

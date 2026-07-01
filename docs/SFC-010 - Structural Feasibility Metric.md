@@ -1,6 +1,4 @@
-# SFC-010
-
-# Structural Feasibility Metric
+# SFC-010 - Structural Feasibility Metric
 
 ## The Underlying Algorithm Behind Confidence Thickness
 

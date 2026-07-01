@@ -1,6 +1,4 @@
-# SFC-011
-
-# Autonomous Contracting
+# SFC-011 - Autonomous Contracting
 
 ## From Human Contracts to AI-Generated Structural Agreements
 

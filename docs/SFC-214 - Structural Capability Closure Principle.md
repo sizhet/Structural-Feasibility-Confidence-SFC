@@ -1,4 +1,4 @@
-# SFC-114 — Structural Capability Closure Principle
+# SFC-214 — Structural Capability Closure Principle
 ## Why Intelligence Transfers as Functional Closures Rather Than Individual Structures
 
 ## Abstract
