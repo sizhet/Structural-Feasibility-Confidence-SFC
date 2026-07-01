@@ -13,6 +13,28 @@ We further argue that Structural Intelligence does not compete with LLMs. Instea
 
 ---
 
+## From Engineering Feasibility to LLM Interpretation
+
+Structural Feasibility was not originally proposed as a theory for interpreting Large Language Models.
+
+Instead, it emerged from a series of investigations into engineering reasoning, gap bridging, task organization, function tunnels, runtime intelligence, and structural feasibility itself.
+
+Only after these structural concepts had gradually matured did an unexpected observation appear.
+
+Many practical behaviors exhibited by modern LLMs—including engineering completion, scoring, ranking, patchwork reasoning, iterative refinement, and partial solution construction—appeared increasingly compatible with structural feasibility concepts that had originally been developed for entirely different engineering purposes.
+
+Consequently, the present work should not be viewed as beginning with LLMs and extending Structural Feasibility toward them.
+
+Rather, it represents the opposite direction.
+
+Structural Feasibility first emerged as an independent engineering framework.
+
+Its relevance to LLMs became apparent only through later structural convergence.
+
+This historical development provides the motivation for the engineering interpretation presented throughout this article.
+
+---
+
 #### Fig-210--LLMs-as-Implicit-Structural-Feasibility-Engines.png
 
 ![./figures/Fig-210--LLMs-as-Implicit-Structural-Feasibility-Engines.png](figures/Fig-210-LLMs-as-Implicit-Structural-Feasibility-Engines.png)
